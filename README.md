@@ -14,7 +14,10 @@ Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker 
 - Hoe heb je dit onderzocht?
 - Wat is jouw oplossing?
 - Hoe lost jouw oplossing het probleem op?
-- Hero sketch/render/image
+- Hero sketch/render/image, vb.
+<p align="center">
+  <img src="img/hero_example.png" width="100%">
+</p>
 
 ## Introductie
 Max 300 woorden.
