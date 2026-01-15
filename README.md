@@ -1,4 +1,4 @@
-# Projecttitel
+# Music For Your Feet
 *Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
 
 🛠️ Built by ``Kobe Holderbeke`` & ``Mattea Claeys``   
