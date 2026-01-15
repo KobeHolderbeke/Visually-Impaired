@@ -45,7 +45,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Literatuuronderzoek_Report.docx?d=wcb3b1f7df2644aaa973516db1ef0ed10&csf=1&web=1&e=HxRNHF)
 * Interviews (N=x)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Interview_Protocol.docx?d=w809e535013b64d478fc1145794523c66&csf=1&web=1&e=fjQfnK)
-  * [Rapport](url)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Interview_Report.docx?d=w5ec5df5fc8ce4eaf8052ac885808deb5&csf=1&web=1&e=1nr2u2)
     
 ### Definition
 * User testing wave 1 (N=x)
