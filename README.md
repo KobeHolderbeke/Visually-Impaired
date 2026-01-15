@@ -41,7 +41,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Literatuuronderzoek_Protocol.docx?d=w61185a7cfa3f495daccf45e461f87c6a&csf=1&web=1&e=J8pX2Z)
   * [Rapport](url)
 * Interviews (N=x)
   * [Protocol](url)
