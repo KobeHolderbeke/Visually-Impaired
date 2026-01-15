@@ -44,7 +44,7 @@ Licht toe op welke manier je AI gebruikte in dit project.
   * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Literatuuronderzoek_Protocol.docx?d=w61185a7cfa3f495daccf45e461f87c6a&csf=1&web=1&e=J8pX2Z)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Literatuuronderzoek_Report.docx?d=wcb3b1f7df2644aaa973516db1ef0ed10&csf=1&web=1&e=HxRNHF)
 * Interviews (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Interview_Protocol.docx?d=w809e535013b64d478fc1145794523c66&csf=1&web=1&e=fjQfnK)
   * [Rapport](url)
     
 ### Definition
