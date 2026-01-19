@@ -8,21 +8,21 @@
 *13/11/2025*   
 
 ## Samenvatting
-Probleem 
+#Probleem 
 
 Slechtziende muzikanten stuiten op grote drempels bij het leren van nieuwe muziek. Braille-bladmuziek is een complexe, aparte taal die velen niet beheersen. Bovendien moeten muzikanten hun instrument constant neerleggen om handmatig door braille-partituren te navigeren, wat de flow en motivatie onderbreekt en frustraties uitlokt. 
 
-Onderzoek 
+#Onderzoek 
 
 Via interviews met de doelgroep stelden we vast dat de afhankelijkheid van fysiek contact (voelen) en de noodzaak om het instrument los te laten de grootste frustraties zijn. Onze meest kostbare interviewer stelde: “Ik heb dat (Braille Muziekschrift) wel geleerd, maar ik blijf er zoveel mogelijk van af”. Deze persoon speelt als alternatief de muzikale audiotrack af en leert het doormiddel van luisteren op gehoor.  
 
 Er is behoefte aan een intuïtieve, handsfree methode. 
 
-Oplossing 
+#Oplossing 
 
 Wij ontwikkelden een haptische, door de voeten bediend prototype, gekoppeld aan een mobiele applicatie. Dit systeem stelt muzikanten in staat om een audiopartituur volledig met de voeten aan te sturen. 
 
-Impact 
+#Impact 
 
 Door functies zoals start/pauze, spoelen en het herhalen van fragmenten (looping) naar de voeten te verplaatsen, kan de gebruiker de handen op het instrument houden. De audio-interface verwijdert de barrière van braille-notatie, waardoor muziek leren toegankelijker en sneller wordt. Zowel audiopartituur als muziektrack zijn afspeelopties, waardoor geen voorkeuren worden uitgesloten. 
 
