@@ -82,10 +82,10 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ### Definition
 * User testing wave 1 (N=x)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQCpgV68K8tYTbwqrU3BGaQVAbbZWw5pqcu_k0QDw4POE8I?e=BGHP7T)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Reports/ClaeysMattea_KobeHolderbeke_Gebruikerstest1_Report.docx?d=w30f6cb24af0345ff9b5a78e7161cf869&csf=1&web=1&e=IQuuss)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQAky_YwA6__RZtaeOcWHPhpASCxieU0GRjqjp9feo6laxo?e=5y6nlD)
 * User testing wave 2 (N=x)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Protocollen/Gebruikerstest%202%20-%20Protocol%20-%20Kobe%20Holderbeke%20-%20Mattea%20Claeys.docx?d=w52b68c63f07d4fe886306435da64eae1&csf=1&web=1&e=Si59OK)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Reports/ClaeysMattea_KobeHolderbeke_Gebruikerstest2_Report.docx?d=w7ba4425c3ae344949851a76ab9ac0d97&csf=1&web=1&e=rkuJhQ)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBjjLZSffDoT4YwZDXaZOrhAfhvxaoLlUYGOMogOBo6GUY?e=pMHGh2)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBcQqR74zqURJhRp2q5rA2XAcczsUglUP6ll5FD3lllPYg?e=BxCLvT)
 
 ## Licentie
 
