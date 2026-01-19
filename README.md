@@ -32,9 +32,26 @@ Door functies zoals start/pauze, spoelen en het herhalen van fragmenten (looping
 </p>
 
 ## Introductie
-Max 300 woorden.
-Kader je project. Introduceer het probleem en jouw doelstellingen (inclusief boundary conditions).
-Maak gebruik van bronverwijzingen ([zie APA stijl](https://www.scribbr.nl/category/apa-stijl/)). Zoals bijvoorbeeld (Thomas & Ritter, 2022) [^1] .
+Bij de uitdaging: “Hoe help ik mensen met een visuele beperking?”, komen snel ideeën naar boven zoals helpen met oriëntatie/lokalisatie en hulp bij taken van basisbehoefte zoals koken.  
+
+Wat vaak overschaduwd wordt is dat deze personen net zoals zienden ook nood hebben aan ontspanning en zelfexpressie. Sommigen doen dit door muziek te spelen, maar bij slechtzienden wordt de mogelijkheid om dit te doen belemmerd door de complexiteit van het traditionele Braille Muziekschrift (Kroeze, 2018). Dit systeem vereist niet alleen een langdurig leerproces, maar dwingt de muzikant ook om het instrument los te laten tijdens het lezen, wat de flow van het leerproces verstoort en sommige slechtzienden met muzikale interesse weerhoudt om überhaupt aan deze hobby te beginnen.  
+
+Het doel van dit project is het ontwikkelen van een toegankelijk alternatief dat de cognitieve en fysieke barrières van het Braille Muziekschrift wegneemt. Wij beogen een systeem waarbij de muzikant handsfree, efficiënt en intuïtief door een audiopartituur of muziektrack kan navigeren, waardoor de focus van de gebruiker volledig op het instrument blijft liggen.  
+
+Om trouw te blijven aan deze doelstellingen, moet het ontwerp aan volgende eisen voldoen:  
+
+### Handsfree bediening
+De interactie mag geen handmatig contact met een interface vereisen tijdens het spelen.  
+
+### Lage instapdrempel
+Het systeem moet bruikbaar zijn zonder voorafgaande kennis van braille of complexe codes.  
+
+### Audiotype
+Zowel het afspelen van audiopartituren als dat van muziektracks moeten door het systeem ondersteund worden.  
+
+### App-design
+De bijhorende mobiele applicatie moet voor slechtzienden begrijpbaar en bruikbaar zijn en de nummerselectie, alsook de keuze van het audiotype, moet hierin mogelijk zijn.  
+
 
 ## Inhoudstafel
 
