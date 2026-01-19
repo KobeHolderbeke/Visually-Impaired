@@ -28,7 +28,7 @@ Door functies zoals start/pauze, spoelen en het herhalen van fragmenten (looping
 
  
 <p align="center">
-  <img src="img/hero_example.png" width="100%">
+  
 </p>
 
 ## Introductie
