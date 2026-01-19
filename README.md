@@ -31,6 +31,8 @@ Door functies zoals start/pauze, spoelen en het herhalen van fragmenten (looping
   
 </p>
 
+---
+
 ## Introductie
 Bij de uitdaging: “Hoe help ik mensen met een visuele beperking?”, komen snel ideeën naar boven zoals helpen met oriëntatie/lokalisatie en hulp bij taken van basisbehoefte zoals koken.  
 
@@ -52,6 +54,7 @@ Zowel het afspelen van audiopartituren als dat van muziektracks moeten door het 
 ### App-design
 De bijhorende mobiele applicatie moet voor slechtzienden begrijpbaar en bruikbaar zijn en de nummerselectie, alsook de keuze van het audiotype, moet hierin mogelijk zijn.  
 
+---
 
 ## Inhoudstafel
 
