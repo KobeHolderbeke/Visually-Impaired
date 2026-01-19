@@ -19,7 +19,7 @@ Dit ontwerp- en testproces wordt 2 keer uitgevoerd, onder de vorm van 2 waves.
 
 De inzichten van deze 2 tests leiden tot 1 ontwerp. (Convergentie) 
 
-<img src="[Timeline.jpg](https://github.com/KobeHolderbeke/Visually-Impaired/blob/main/Timeline.jpg)" width="100%">
+<img src="(https://github.com/KobeHolderbeke/Visually-Impaired/blob/main/Timeline.jpg)" width="100%">
 
 Mattea Claeys hoorde in zijn persoonlijk interview kritiek op de manier waarop slechtzienden momenteel muziek moeten leren. Er zouden veel problemen zijn met hoe dat er nu aan toe gaat en het zou veel frustratie uitlokken, zonder bestaande alternatieven die deze “pains” kunnen “killen”. 
 
