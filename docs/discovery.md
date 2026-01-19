@@ -67,4 +67,4 @@ De resultaten van deze analyse vormen de basis voor een tabel waarin alle releva
 
 De verzamelde kwalitatieve en kwantitatieve data maakten het mogelijk om een goed onderbouwde persona te construeren. Deze persona weerspiegelt de kernkenmerken van de beoogde gebruiker en ondersteunt het maken van consistente en doelgroepgerichte ontwerpkeuzes.  
 
-![Persona](docs/PersonaNederlands.jpg)
+![Persona](PersonaNederlands.jpg)
