@@ -73,11 +73,11 @@ Licht toe op welke manier je AI gebruikte in dit project.
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=x)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Literatuuronderzoek_Protocol.docx?d=w61185a7cfa3f495daccf45e461f87c6a&csf=1&web=1&e=J8pX2Z)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Literatuuronderzoek_Report.docx?d=wcb3b1f7df2644aaa973516db1ef0ed10&csf=1&web=1&e=HxRNHF)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQB8WhhhP_pdSazPReRh-HxqAclnc3PnnkJyJq7oPYJ3NZ4?e=7g2boN)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQB9HzvLZPKqSpc1Ftse8O0QARGRsxfzFwpFhsLdyy_mlFo?e=11EF0i)
 * Interviews (N=x)
-  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Interview_Protocol.docx?d=w809e535013b64d478fc1145794523c66&csf=1&web=1&e=fjQfnK)
-  * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/ClaeysMattea_Interview_Report.docx?d=w5ec5df5fc8ce4eaf8052ac885808deb5&csf=1&web=1&e=1nr2u2)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBQU56AthNHTY_BFFeUUjxmASiolwOdjGJiTEfFOpEcLPk?e=OsEMhK)
+  * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBf38VezsivToBSrIhYCN61AUVMqxSsOoYWdKP_1LEdgZQ?e=FsCly7)
     
 ### Definition
 * User testing wave 1 (N=x)
