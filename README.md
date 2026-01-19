@@ -1,5 +1,5 @@
 # Music For Your Feet
-*Omschrijving van je concept in 1 zin, e.g. Zablurb, een slimme stofzuiger die eenzaamheid tegengaat bij alleenstaande senioren.* 
+*Ontwikkelen van een handsfree, toegankelijk systeem dat slechtzienden en blinden helpt muziek intuïtief te leren en te spelen zonder afhankelijk te zijn van traditionele braillepartituren.* 
 
 🛠️ Built by ``Kobe Holderbeke`` & ``Mattea Claeys``   
 🔥 Supervised by ``prof. dr. Bas Baccarne``, ``Yannick Christiaens`` & ``Wouter Devriese``    
