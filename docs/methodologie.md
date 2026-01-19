@@ -19,6 +19,8 @@ Dit ontwerp- en testproces wordt 2 keer uitgevoerd, onder de vorm van 2 waves.
 
 De inzichten van deze 2 tests leiden tot 1 ontwerp. (Convergentie) 
 
+<img src="img/hero_example.png" width="100%">
+
 Mattea Claeys hoorde in zijn persoonlijk interview kritiek op de manier waarop slechtzienden momenteel muziek moeten leren. Er zouden veel problemen zijn met hoe dat er nu aan toe gaat en het zou veel frustratie uitlokken, zonder bestaande alternatieven die deze “pains” kunnen “killen”. 
 
 Om dit te valideren voerde hij benchmarking uit, zoekend naar producten die dit toch wel zouden kunnen doen, maar er was quasi geen antwoord van de markt op dit probleem. 
