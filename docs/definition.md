@@ -3,15 +3,25 @@
 
 In deze fase werden de bevindingen uit de discoveryfase samengebracht en vertaald naar enkele eerste, verkennende prototypes. Om snel te kunnen itereren en vroegtijdige gebruikerstesten mogelijk te maken, werd gekozen voor **low-fidelity prototyping**. Hierbij werd voornamelijk karton ingezet in combinatie met een **Makey Makey**, waarmee eenvoudige gebaren (gestures) konden worden omgezet naar directe feedback. Daarnaast kon het hoofdprincipe van het concept op een visuele manier worden vastgelegd en gecommuniceerd aan de hand van een **storyboard**, zodat het ontwerpidee duidelijk werd voor zowel het team als mogelijke testers.  
 
+![StoryBoard](Storyboard.jpg)
+
 ---
 
 ### Voetpedalen Prototype
 
 Gezien de ambitie om te werken met voetgebaren en de beperkingen van het gebruikte materiaal, ontstond het idee om een prototype te ontwikkelen bestaande uit **twee pedalen**. Elk pedaal was ontworpen om een afzonderlijk signaal te versturen. Op deze manier konden basisinteracties, zoals het pauzeren of doorspoelen van een audiotrack, worden gesimuleerd. Daarnaast bood dit concept de mogelijkheid om combinaties van input te testen door beide pedalen gelijktijdig in te drukken, wat ruimte creëerde voor uitgebreidere interacties. Ook werd een standaard app-interface gemaakt om feedback te verzamelen tijdens de komende tests en zo de gebruikservaring verder te evalueren.  
 
+![PedalenToe](pedalentoe.jpeg)
+
+![PedalenOpen](pedalenopen.jpeg)
+
+![Pedalenmakey](pedalenmakey.jpeg)
+
 Het primaire doel van dit eerste prototype was het bieden van een eerste, tastbare representatie van de beoogde interactie, zodat deze tijdens de eerstvolgende tests geëvalueerd kon worden. Hierdoor werd het mogelijk om zowel de intuïtiviteit van voetgestuurde interactie als de haalbaarheid van handsfree bediening binnen een muzikale leercontext vroegtijdig te onderzoeken.  
 
 Daarnaast had het prototype als doel om bijkomende inzichten te verwerven met betrekking tot de meest geschikte vormen van voetbediening, zoals drukken, vasthouden of schuifbewegingen. De resultaten van deze eerste testfase, aangevuld met reflectie en co-creatie met de test persona, vormen de basis om het prototype gericht te verbeteren en te verfijnen. Op die manier kan in de volgende fase een meer doordacht en functioneel prototype worden gematerialiseerd.  
+
+![Pedalentest](pedalentest.jpeg)
 
 ---
 
@@ -45,6 +55,8 @@ Deze punten worden verwerkt in de bestaande design requirements.
 ### Vernieuwd Prototype
 
 Na het toepassen van de nieuwe designcriteria werd een vernieuwd prototype ontwikkeld: één pedaal is nu vlak uitgevoerd maar bevat **twee knoppen**, één bij de hiel en één bij de voettop. Met twee pedalen zijn er in totaal vier knoppen beschikbaar, waardoor meerdere functies en combinaties mogelijk zijn. Bij de tweede gebruikerstest worden beide prototypes meegenomen naar een nieuwe test persona om opnieuw inzichten te verzamelen. Op deze manier kunnen alle hoofdfuncties gevalideerd worden en vastgelegd voor de ontwikkelingsfase.  
+
+![Proto2](proto2.jpeg)
 
 ---
 
