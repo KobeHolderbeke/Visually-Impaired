@@ -81,10 +81,10 @@ Licht toe op welke manier je AI gebruikte in dit project.
     
 ### Definition
 * User testing wave 1 (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Protocollen/Gebruikerstest%201%20-%20Protocol%20-%20Kobe%20Holderbeke%20-%20Mattea%20Claeys.docx?d=wbc5e81a9cb2b4d58bc2aad4dc119a415&csf=1&web=1&e=MMwGVd)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Reports/ClaeysMattea_KobeHolderbeke_Gebruikerstest1_Report.docx?d=w30f6cb24af0345ff9b5a78e7161cf869&csf=1&web=1&e=IQuuss)
 * User testing wave 2 (N=x)
-  * [Protocol](url)
+  * [Protocol](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Protocollen/Gebruikerstest%202%20-%20Protocol%20-%20Kobe%20Holderbeke%20-%20Mattea%20Claeys.docx?d=w52b68c63f07d4fe886306435da64eae1&csf=1&web=1&e=Si59OK)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/r/teams/Group.course1292876/Gedeelde%20documenten/General/Reports/ClaeysMattea_KobeHolderbeke_Gebruikerstest2_Report.docx?d=w7ba4425c3ae344949851a76ab9ac0d97&csf=1&web=1&e=rkuJhQ)
 
 ## Licentie
