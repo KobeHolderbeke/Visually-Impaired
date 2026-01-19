@@ -1,5 +1,4 @@
 ## Discovery
-# Discoveryfase
 
 De Discovery fase werd gestart met het afnemen van een semigestructureerd interview met een slechtziende deelnemer (naam geanonimiseerd). Tijdens dit interview werden vragen gesteld die overeenkomen met het vooraf opgestelde onderzoeksprotocol (zie bijlage/doorverwijzing). Al snel werden meerdere terugkerende knelpunten geïdentificeerd. Aspecten zoals oriëntatie, verplaatsing en het gebruik van touchscreens kwamen duidelijk naar voren als bronnen van frustratie (**pains**). Voor deze problematieken bestaan echter reeds diverse producten en concepten op de markt.  
 
@@ -15,7 +14,7 @@ Deze vaststelling vormde de basis voor de inspiratie om een product te ontwikkel
 
 ---
 
-## Bevindingen uit het interview
+### Bevindingen uit het interview
 
 Uit het interview konden reeds enkele belangrijke conclusies worden getrokken. Braillepartituren bleken geen optimale oplossing, aangezien slechts een beperkt percentage van de blinde populatie braille kan lezen. Bovendien vraagt het aanleren van braillemuzieknotatie een hoge cognitieve belasting. Hierdoor werd duidelijk dat een mogelijke oplossing primair moet steunen op auditieve interactie.  
 
@@ -23,7 +22,7 @@ Daarnaast gaf de geïnterviewde aan muziek voornamelijk aan te leren door te lui
 
 ---
 
-## Literatuuronderzoek
+### Literatuuronderzoek
 
 In een volgende fase van de discovery werd een uitgebreid literatuuronderzoek uitgevoerd. Dit onderzoek richtte zich enerzijds op het fenomeen relatief en absoluut gehoor bij slechtzienden en blinden, en anderzijds op bestaande oplossingen en hulpmiddelen die mogelijk niet bekend waren bij de geïnterviewde. Tijdens dit proces werd voornamelijk gebruikgemaakt van wetenschappelijke publicaties en consensusbronnen (zie protocolverwijzingen).  
 
@@ -39,7 +38,7 @@ Indien deze onderbrekingen kunnen worden geminimaliseerd of volledig geëliminee
 
 ---
 
-## Analyse van bestaande oplossingen
+### Analyse van bestaande oplossingen
 
 Bij het onderzoeken van bestaande oplossingen voor deze specifieke problematiek werd slechts één relevante tool geïdentificeerd: **Talking Scores**. Deze software zet digitale muziekpartituren, doorgaans opgeslagen in XML-formaat, om naar **text-to-speech**. Hierdoor wordt de inhoud van de partituur auditief weergegeven, waarbij onder andere akkoorden en structurele elementen van een muziekstuk worden gedicteerd.  
 
@@ -47,7 +46,7 @@ Hoewel deze oplossing bepaalde beperkingen kent, zoals een beperkte expressivite
 
 ---
 
-## Samenvatting discovery
+### Samenvatting discovery
 
 De resultaten van deze analyse vormen de basis voor een tabel waarin alle relevante **design requirements** voor de materialisatie van het eerste prototype worden samengevat:  
 
@@ -64,6 +63,6 @@ De resultaten van deze analyse vormen de basis voor een tabel waarin alle releva
 
 ---
 
-## Persona
+### Persona
 
 De verzamelde kwalitatieve en kwantitatieve data maakten het mogelijk om een goed onderbouwde persona te construeren. Deze persona weerspiegelt de kernkenmerken van de beoogde gebruiker en ondersteunt het maken van consistente en doelgroepgerichte ontwerpkeuzes.  
