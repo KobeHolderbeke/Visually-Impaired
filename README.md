@@ -27,7 +27,7 @@ Wij ontwikkelden een haptische, door de voeten bediend prototype, gekoppeld aan 
 Door functies zoals start/pauze, spoelen en het herhalen van fragmenten (looping) naar de voeten te verplaatsen, kan de gebruiker de handen op het instrument houden. De audio-interface verwijdert de barrière van braille-notatie, waardoor muziek leren toegankelijker en sneller wordt. Zowel audiopartituur als muziektrack zijn afspeelopties, waardoor geen voorkeuren worden uitgesloten. 
 
  
-<p align="center">
+![ProofOfConcept](Timeline.jpg)
   
 </p>
 
