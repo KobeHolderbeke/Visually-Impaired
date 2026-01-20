@@ -1,4 +1,4 @@
-# Music For Your Feet
+# Feel The Score
 *Ontwikkelen van een handsfree, toegankelijk systeem dat slechtzienden en blinden helpt muziek intuïtief te leren en te spelen zonder afhankelijk te zijn van traditionele braillepartituren.* 
 
 🛠️ Built by ``Kobe Holderbeke`` & ``Mattea Claeys``   
