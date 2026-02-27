@@ -68,8 +68,7 @@ De bijhorende mobiele applicatie moet voor slechtzienden begrijpbaar en bruikbaa
 Max. 500 woorden
 
 ## Noot inzake het gebruik van AI
-Licht toe op welke manier je AI gebruikte in dit project.
-
+In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen.
 ## Bijlagen
 ### Discovery
 * Literatuuronderzoek (N=x)
