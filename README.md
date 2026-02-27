@@ -64,6 +64,8 @@ De bijhorende mobiele applicatie moet voor slechtzienden begrijpbaar en bruikbaa
 4. [Design Requirements](./docs/design_requirements.md)
 5. [Bill of materials](./docs/bom.md)
 6. [Breakdown](./docs/breakdown.md)
+7. [Architectuur](./docs/architectuur.md)
+8. [Testresultaten](./docs/testresultaten.md)
 
 ## Kritische reflectie
 Max. 500 woorden
