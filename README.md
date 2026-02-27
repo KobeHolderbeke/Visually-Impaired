@@ -74,20 +74,25 @@ Max. 500 woorden
 In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen.
 ## Bijlagen
 ### Discovery
-* Literatuuronderzoek (N=x)
+* Literatuuronderzoek (N=10)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQB8WhhhP_pdSazPReRh-HxqAclnc3PnnkJyJq7oPYJ3NZ4?e=7g2boN)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQB9HzvLZPKqSpc1Ftse8O0QARGRsxfzFwpFhsLdyy_mlFo?e=11EF0i)
-* Interviews (N=x)
+* Interviews (N=3)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBQU56AthNHTY_BFFeUUjxmASiolwOdjGJiTEfFOpEcLPk?e=OsEMhK)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBf38VezsivToBSrIhYCN61AUVMqxSsOoYWdKP_1LEdgZQ?e=FsCly7)
     
 ### Definition
-* User testing wave 1 (N=x)
+* User testing wave 1 (N=1)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQCpgV68K8tYTbwqrU3BGaQVAbbZWw5pqcu_k0QDw4POE8I?e=BGHP7T)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQAky_YwA6__RZtaeOcWHPhpASCxieU0GRjqjp9feo6laxo?e=5y6nlD)
-* User testing wave 2 (N=x)
+* User testing wave 2 (N=1)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBjjLZSffDoT4YwZDXaZOrhAfhvxaoLlUYGOMogOBo6GUY?e=pMHGh2)
   * [Rapport](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBcQqR74zqURJhRp2q5rA2XAcczsUglUP6ll5FD3lllPYg?e=BxCLvT)
+
+ ### Develop phase 1
+* User testing wave 1 (N=2)
+  * [Protocol]
+  * [Rapport]
 
 ## Licentie
 
