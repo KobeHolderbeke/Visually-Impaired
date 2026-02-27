@@ -1,33 +1,34 @@
 ## Overzicht van Design Requirements
 || **Status** || ❌ niet voldaan || ⚠️ gedeeltelijk voldaan || ✅ voldaan ||
-| ID       | Design requirement                                                                                   | Source                  | Status |
-|----------|-----------------------------------------------------------------------------------------------------|------------------------|--------|
-| algemeen |                                                                                                     |                        |        |
-| 1        | Het product moet hoofdzakelijk auditieve feedback naar de gebruiker sturen.                          | Interview + Literatuur  |        |
-| 1.1      | Ondersteuning van relatief en absoluut gehoor.                                                       | Interview + Literatuur  |        |
-| 2        | Voor de gebruiker is er minimale nood aan visuele of tactiele leesvaardigheden.                     | Interview               |        |
-| 3        | Het product moet onderbrekingen beperken tijdens het oefenen.                                       | Literatuur              |        |
-| 4        | Handsfree of low-effort bediening is een must voor het product.                                      | User-Test 1             |        |
-| 5        | De gebruiker moet via het product modulair en stapsgewijs kunnen leren.                              | Interview               |        |
-| 6        | Het product moet compatibel zijn met bestaande muziekformaten.                                       | Literatuur              |        |
-| 7        | Tijdens het oefenen moet er voor de gebruiker lage cognitieve belasting zijn.                        | Literatuur              |        |
-| 7.1      | Intuïtieve mapping tussen input en functie.                                                          | User-Test 2             |        |
-| 7.2      | Het product moet bruikbaar zijn zonder voorafgaande uitleg of training.                              | User-Test 1/2           |        |
-| 8        | Product moet een stabiele rustpositie bieden aan de gebruiker (ergonomisch).                         | User-Test 1             |        |
-| 9        | Gebruikers willen een looping functie zodat ze een muziekstuk kunnen herhalen.                      | User-Test 1             |        |
-| 10       | Het product moet functies hebben om het leren te kunnen besturen.                                    | User-Test 1/2           |        |
-| 10.1     | Moet kunnen pauzeren/hervatten.                                                                     | User-Test 1/2           |        |
-| 10.2     | Moet kunnen door- en terugspoelen.                                                                 | User-Test 1/2           |        |
-| 10.2.1   | Moet indicatie geven iedere keer 5 a 10 seconden is doorgespoeld.                                   | User-Test 1/2           |        |
-| 10.3     | Moet kunnen schakelen tussen audiopartituur en audiotrack.                                         | User-Test 1/2           |        |
-| 11       | Product moet gebruik maken van talking-scores.                                                      | User-Test 1/2           |        |
-| 12       | Product moet duidelijke fysieke indicaties hebben.                                                  | User-Test 2             |        |
-| 13       | Het product mag niet volledig symmetrisch zijn en moet een directionele vorm of layout hebben die intuïtieve positionering mogelijk maakt. | User-Test 2 |        |
-| 14       | Het product moet het aantal primaire bedieningsinputs beperken om complexiteit en foutgebruik te verminderen. | User-Test 2 |        |
-| 15       | Knoppen in app moeten goed gelabeld zijn.                                                          | User-Test 1/2           |        |
-| 15.1     | Naam van knop moet functie uitleggen.                                                              | User-Test 1             |        |
-| 15.2     | Aangeven hoeveel knoppen er in een interface zijn, zodat bekend is hoeveel mogelijke functies er zijn binnen de app. | User-Test 2 |        |
-| 16       | De hoofdknoppen van de app (actieknop en terugknop) mogen niet van plaats veranderen zodat alles intuïtief blijft. | User-Test 2 |        |
-| 17       | De auditieve tutorial in de app moet kunnen worden uitgeschakeld in een algemeen instellingen menu. | User-Test 1 |        |
-| 20       | Intuïtieve handelingen in de app niet aanpassen (bv. doorzenden naar bluetooth menu, ipv zelf één maken). | User-Test 2 |        |
+## Design Requirements
+
+| ID  | Categorie | Design requirement | Source |
+|-----|-----------|-------------------|--------|
+| F1 | Auditieve Interactie & Muzikale Functionaliteit | Het product stuurt hoofdzakelijk auditieve feedback naar de gebruiker. | Interview + Literatuur |
+| F2 | Auditieve Interactie & Muzikale Functionaliteit | Het product biedt ondersteuning van relatief en absoluut gehoor. | interview + Literatuur |
+| F3 | Auditieve Interactie & Muzikale Functionaliteit | Het product maakt gebruik van talking-scores (audio partituur). | User-Test 1/2 |
+| F4 | Auditieve Interactie & Muzikale Functionaliteit | Het product heeft functies om de audio partituur te kunnen besturen. | User-Test 1/2 |
+| F5 | Auditieve Interactie & Muzikale Functionaliteit | Het product kan een audio partituur pauzeren/hervatten. | User-Test 1/2 |
+| F6 | Auditieve Interactie & Muzikale Functionaliteit | Het product kan een audio partituur door- en terugspoelen. | User-Test 1/2 |
+| F7 | Auditieve Interactie & Muzikale Functionaliteit | Het product geeft indicaties tijdens het door- en terugspoelen. | User-Test 1/2 |
+| F8 | Auditieve Interactie & Muzikale Functionaliteit | Het product kan schakelen tussen een audio partituur en een audiotrack. | User-Test 1/2 |
+| F9 | Auditieve Interactie & Muzikale Functionaliteit | Het product biedt een "loop" functie voor het intensief leren van moeilijkere stukken muziek. | User-Test 1 |
+| L1 | Leerondersteuning & Oefenproces | Het product biedt een stapsgewijs leerpad. | Interview |
+| L2 | Leerondersteuning & Oefenproces | Het product beperkt onderbrekingen tijdens het oefenen. | Literatuur |
+| L3 | Leerondersteuning & Oefenproces | De app biedt een auditieve tutorial. | User-Test 1 |
+| L4 | Leerondersteuning & Oefenproces | De app kan de auditieve tutorial aan en uit zetten. | User-Test 1 |
+| U1 | Gebruiksvriendelijkheid & Cognitieve Belasting | Het product is een lage cognitieve belasting tijdens het gebruik. | Literatuur |
+| U2 | Gebruiksvriendelijkheid & Cognitieve Belasting | Het product biedt intuïtieve inputs voor iedere functie. | User-Test 2 |
+| U3 | Gebruiksvriendelijkheid & Cognitieve Belasting | Het product is bruikbaar zonder voorafgaande uitleg of training. | User-Test 1/2 |
+| U4 | Gebruiksvriendelijkheid & Cognitieve Belasting | Het product beperkt het aantal primaire bedieningsinputs om complexiteit en foutgebruik te verminderen. | User-Test 2 |
+| U5 | Gebruiksvriendelijkheid & Cognitieve Belasting | De app biedt een intuïtieve bediening. | User-Test 1/2 |
+| U6 | Gebruiksvriendelijkheid & Cognitieve Belasting | De app biedt een layout waar de belangrijkste inputs niet van plaats veranderen. | User-Test 2 |
+| U7 | Gebruiksvriendelijkheid & Cognitieve Belasting | De app speelt in op gewoontes van de gebruiker en onnodige functies vermijden. | User-Test 2 |
+| U8 | Gebruiksvriendelijkheid & Cognitieve Belasting | De app geeft aan hoeveel knoppen er per interface zijn om zo het aantal mogelijke inputs te verduidelijken. | User-Test 2 |
+| A1 | Toegankelijkheid & Inclusief Ontwerp | Het product is bestuurbaar met minimale tactiele leesvaardigheid. | Interview |
+| A2 | Toegankelijkheid & Inclusief Ontwerp | Het product kan bestuurd worden zonder handen. | User-Test 1 |
+| A3 | Toegankelijkheid & Inclusief Ontwerp | De app heeft gelabelde knoppen om makkelijke oriëntatie met voice over te verkrijgen. | User-Test 1 |
+| T1 | Fysieke & Technische Randvoorwaarden | Het product biedt een stabiele rust positie aan de gebruiker (ergonomisch). | User-Test 1 |
+| T2 | Fysieke & Technische Randvoorwaarden | Het product biedt signifiers om de opstelling correct te plaatsen. | User-Test 2 |
+| T3 | Fysieke & Technische Randvoorwaarden | Het product is compatibel met bestaande muziekformaten. | Literatuur |
 
