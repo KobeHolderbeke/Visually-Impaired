@@ -42,6 +42,20 @@ Er wordt gebruikgemaakt van een zekere methode (zie Methodologie), welke het ont
 
 Tijdens de eerste fase, Discovery, is binnen het ruime probleem (afgeleid uit de challenge), gezocht naar een specifieker deelprobleem: 
 
+FOTO
+
+Dit specifieker probleem kadert het project niet rond het vervullen van basisnoden zoals oriëntatie/koken/…, maar wel rond het ondersteunen van ontspanning en zelfexpressie voor slechtziende (aspirant-)muzikanten, door het leerproces van muziek voor hen aangenamer te maken. 
+Het brengt volgende hoofddoelen met zich mee:
+-	De gebruiker heeft geen kennis van een andere taal nodig, buiten notenleer.
+-	De gebruiker moet tijdens het leren het instrument niet loslaten.
+-	De gebruiker kan zowel een muziektrack als een audio partituur bedienen.
+-	De (eventuele) bijhorende app moet voor slechtzienden toegankelijk zijn.
+Ook de boundary conditions:
+-	Het product signaleert gebruiksaspecten nooit enkel op visuele wijze.
+-	Alle fasen moeten binnen de voorziene deadline (zie Methodologie) afgewerkt worden.
+Aan de hand hiervan wordt in de volgende fase, Definition, nagedacht over hoe dit probleem het best kan opgelost worden. Uit inzichten van deze fase alsook uit de volgende fasen, worden zekere eisen geformuleerd waaraan het product moet voldoen (ook in welke mate noodzakelijk), namelijk de Design requirements en ook welke materialen het best gebruikt worden en waar deze aangekocht worden, namelijk de een Bill of materials.
+
+
 ---
 
 ## Inhoudstafel
