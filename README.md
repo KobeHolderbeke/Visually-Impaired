@@ -50,6 +50,7 @@ Het brengt volgende hoofddoelen met zich mee:
 -	De gebruiker moet tijdens het leren het instrument niet loslaten.
 -	De gebruiker kan zowel een muziektrack als een audio partituur bedienen.
 -	De (eventuele) bijhorende app moet voor slechtzienden toegankelijk zijn.
+
 Ook de boundary conditions:
 -	Het product signaleert gebruiksaspecten nooit enkel op visuele wijze.
 -	Alle fasen moeten binnen de voorziene deadline (zie Methodologie) afgewerkt worden.
