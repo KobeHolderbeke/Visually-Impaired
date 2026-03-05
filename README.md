@@ -10,21 +10,23 @@
 ## Samenvatting
 ### Probleem 
 
-Slechtziende muzikanten stuiten op grote drempels bij het leren van nieuwe muziek. Braille-bladmuziek is een complexe, aparte taal die velen niet beheersen. Bovendien moeten muzikanten hun instrument constant neerleggen om handmatig door braille-partituren te navigeren, wat de flow en motivatie onderbreekt en frustraties uitlokt. 
+Slechtziende muzikanten stuiten op grote drempels bij het leren van nieuwe muziek. Braille-bladmuziek is namelijk een complexe, aparte taal die velen niet beheersen. Bovendien moeten muzikanten hun instrument constant loslaten om handmatig door braille-partituren te navigeren, wat de flow onderbreekt en frustratie uitlokt. 
 
 ### Onderzoek 
 
-Via interviews met de doelgroep stelden we vast dat de afhankelijkheid van fysiek contact (voelen) en de noodzaak om het instrument los te laten de grootste frustraties zijn. Onze meest kostbare interviewer stelde: “Ik heb dat (Braille Muziekschrift) wel geleerd, maar ik blijf er zoveel mogelijk van af”. Deze persoon speelt als alternatief de muzikale audiotrack af en leert het doormiddel van luisteren op gehoor.  
+Dit probleem werd vastgesteld via een interview (N = 1). De interviewee stelde: “Ik heb dat (Braille Muziekschrift) wel geleerd, maar ik blijf er zoveel mogelijk van af”. Deze persoon speelt als alternatief de muzikale audiotrack af en leert het doormiddel van perfect pitch*.  
 
-Er is behoefte aan een intuïtieve, handsfree methode. 
+Er blijkt behoefte te zijn aan een efficiënte, handsfree leermethode.
 
 ### Oplossing 
 
-Wij ontwikkelden een haptische, door de voeten bediend prototype, gekoppeld aan een mobiele applicatie. Dit systeem stelt muzikanten in staat om een audiopartituur volledig met de voeten aan te sturen. 
+Het antwoord op dit probleem is om de muziek in audiovorm, zijnde dat de muziek track of de audio partituur, controleerbaar te maken door de voeten, doormiddel van een slim product. 
 
 ### Impact 
 
-Door functies zoals start/pauze, spoelen en het herhalen van fragmenten (looping) naar de voeten te verplaatsen, kan de gebruiker de handen op het instrument houden. De audio-interface verwijdert de barrière van braille-notatie, waardoor muziek leren toegankelijker en sneller wordt. Zowel audiopartituur als muziektrack zijn afspeelopties, waardoor geen voorkeuren worden uitgesloten. 
+Dit neemt zowel de kloof van het leren van een nieuwe taal weg, alsook de frustratie van het loslaten van het instrument, met als hoop het leerproces aangenamer te maken en meer slechtziende mensen aan te zetten om muziek te leren.  
+
+*perfect pitch: Het vermogen om een ​​bepaalde toonhoogte te identificeren of na te bootsen zonder gebruik te maken van een referentietoon.  
 
  
 ![ProofOfConcept](Proofofconcept.jpg)
