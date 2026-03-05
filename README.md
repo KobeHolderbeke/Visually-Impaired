@@ -106,4 +106,4 @@ This repository contains both software and design materials created as part of a
 You are free to reuse and build upon this work, both commercially and non-commercially, as long as proper attribution is given to the original authors.
 
 ## Bronnen
- [^1]: Thomas, T., & Ritter, A. (2022). Wandering & sundowning in dementia. _Practical Neurology, 21_(3), 36–44.
+ JohnSmith981. (2025, 7 december). *Absolute pitch*. In Wikipedia. https://en.wikipedia.org/wiki/Absolute_pitch
