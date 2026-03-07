@@ -42,7 +42,7 @@ Er wordt gebruikgemaakt van een zekere methode (zie Methodologie), welke het ont
 
 Tijdens de eerste fase, Discovery, is binnen het ruime probleem (afgeleid uit de challenge), gezocht naar een specifieker deelprobleem: 
 
-![Introductie](introfoto.jpg).
+![Introductie](introfoto.jpg)
 
 Dit specifieker probleem kadert het project niet rond het vervullen van basisnoden zoals oriëntatie/koken/…, maar wel rond het ondersteunen van ontspanning en zelfexpressie voor slechtziende (aspirant-)muzikanten, door het leerproces van muziek voor hen aangenamer te maken. 
 Het brengt volgende hoofddoelen met zich mee:
