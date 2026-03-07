@@ -9,8 +9,9 @@ Dit vindt plaats onder de vorm van verschillende onderzoekstappen, volgens een s
 - Analyse van pains & gains
 - Literatuuronderzoek
 - Benchmarking van bestaande oplossingen
-- Synthese naar design requirements 
-
+- Synthese naar design requirements
+  
+---
 **Interviews (N=3)** 
 
 Het doel van de interviews is om inzicht te krijgen in dagelijkse frustraties, noden en bestaande strategieën bij het uitvoeren van alledaagse activiteiten. 
@@ -23,6 +24,7 @@ De deelnemer gaf aan voornamelijk op gehoor te leren en weinig gebruik te maken 
 
 Om dit onderwerp verder te verdiepen, werd aanvullend onderzoek uitgevoerd om na te gaan of hier daadwerkelijk sprake is van een significant probleem. Dit aan de hand van literatuuronderzoek. 
 
+---
 **Literatuuronderzoek (N=10)** 
 
 Focus lag op: 
@@ -37,12 +39,14 @@ Verder tonen verschillende bronnen (zie literatuuronderzoek report) aan dat slec
 
 Ook werd bevestigd dat frequente onderbrekingen tijdens het oefenen een negatieve invloed hebben op de leercurve. Bij slechtzienden ontstaat dit door het verplicht zijn van hun handen van hun instrument te halen om zo te kunnen lezen of een fragment opnieuw te doen afspelen. 
 
+---
 **Benchmarking (N=10)** 
 
 Het doel van benchmarking is het analyseren hoe hedendaagse producten/services het probleem van het aanleren van de muziek aanpakken. 
 
 Hieruit bleek dat er momenteel nog geen fysieke producten bestaan, de enige oplossing is Talking Scores. Dit is een software die online partituur bestanden kan omzetten naar text to speech partituren, maar zelf dit werd gemaakt door een groep mensen in hun vrije tijd en is voorlopig voor blinden zo goed als niet bruikbaar. 
 
+---
 **Besluit** 
 
 De verzamelde inzichten tonen aan dat het ontwikkelen van een oplossing binnen dit domein niet alleen relevant, maar ook noodzakelijk is om het muzikale leerproces voor slechtzienden en blinden toegankelijker en efficiënter te maken.
