@@ -28,18 +28,37 @@ Op het specifieker probleem, geformuleerd bij de convergentie wordt een vroegtij
 
 ### Definition 
 
-Na doorlating van het project wordt deze vroege conceptuele oplossing in de kijker gezet. Verschillende oplossingen worden bedacht, omgevormd tot prototypes en getest. (Divergentie) 
+De Definition-fase omvat het bedenken van mogelijke concepten die zouden kunnen antwoorden op het nieuw gesteld probleem.  
 
-Dit ontwerp- en testproces wordt 2 keer uitgevoerd, onder de vorm van 2 waves. 
+Het omvat: 
 
-De inzichten van deze 2 tests leiden tot 1 ontwerp. (Convergentie) 
+- Brainstormen: 
 
-![Timeline](Timeline.jpg)
+  1. Wat moet het product kunnen? (Functies). _Aanvankelijk enigszins intuïtief, na testen
+     concreter._
+  2. Hoe worden deze functies geïntegreerd in het product? (Vormgeving, simpliciteit,
+  3. metaforen, etc.). _Rekening houdend met verworven inzichten uit Discovery. Constraint: ook
+     bruikbaar zonder visual cues._ 
 
-Mattea Claeys hoorde in zijn persoonlijk interview kritiek op de manier waarop slechtzienden momenteel muziek moeten leren. Er zouden veel problemen zijn met hoe dat er nu aan toe gaat en het zou veel frustratie uitlokken, zonder bestaande alternatieven die deze “pains” kunnen “killen”. 
+- Schetsen:
+  Doel: ideeën communiceren met team, het vroegtijdig identificeren van
+  denkfouten/verbeteringen, alsook bij verdere maturiteit van de schetsen modellen vormen om te
+  materialiseren (Prototypes). 
 
-Om dit te valideren voerde hij benchmarking uit, zoekend naar producten die dit toch wel zouden kunnen doen, maar er was quasi geen antwoord van de markt op dit probleem. 
+- Prototypen:
+  Quick & Dirty: worden gemaakt met low-cost materialen zoals karton en worden niet fijn
+  afgewerkt. 
+  Doel: problemen identificeren, een betere feeling van het concept krijgen, gebruiken bij
+  tests om eigenschappen te valideren/verbeteren/elimineren. 
 
-Vanaf dit moment werd de nieuwe onderzoeksvraag: Hoe kunnen we de leercurve voor blinde muzikanten vergemakkelijken door haptische feedback te verbeteren en handsfree bediening mogelijk te maken? 
+- Testen (N = 2):
 
+  1. Protocol opstellen (Protocol wave 1, Protocol wave 2). _Wat wordt getest? Op welke manier?
+     Question Asking Protocol achteraf …_
+  2. Test uitvoeren 
+  3. Report opstellen (Report wave 1, Report wave 2)
+     _Wat zijn de verworven inzichten? Is dit zoals verwacht? Waren er problemen? Implicaties
+     voor design? …_ 
+
+Dit proces wordt tijdens deze fase tweemaal uitgevoerd, onder de vorm van 2 waves. 
 
