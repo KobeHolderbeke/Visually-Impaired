@@ -38,9 +38,9 @@ Dit neemt zowel de kloof van het leren van een nieuwe taal weg, alsook de frustr
 ## Introductie
 Dit project ging van start met een algemene challenge: “Spacial Experiences for Visually Impaired Populations”, het ontwikkelen van een slim product dat slechtzienden assisteert in een vorm van ruimtelijke oriëntatie.  
 
-Er wordt gebruikgemaakt van een zekere methode (zie Methodologie), welke het ontwerpproces opdeelt in vaste fasen.  
+Er wordt gebruikgemaakt van een zekere methode (zie [Methodologie](./docs/methodologie.md)), welke het ontwerpproces opdeelt in vaste fasen.  
 
-Tijdens de eerste fase, Discovery, is binnen het ruime probleem (afgeleid uit de challenge), gezocht naar een specifieker deelprobleem: 
+Tijdens de eerste fase, [Discovery](./docs/discovery.md), is binnen het ruime probleem (afgeleid uit de challenge), gezocht naar een specifieker deelprobleem: 
 
 ![Introductie](introfoto.jpg)
 
@@ -53,8 +53,8 @@ Het brengt volgende hoofddoelen met zich mee:
 
 Ook de boundary conditions:
 -	Het product signaleert gebruiksaspecten nooit enkel op visuele wijze.
--	Alle fasen moeten binnen de voorziene deadline (zie Methodologie) afgewerkt worden.
-Aan de hand hiervan wordt in de volgende fase, Definition, nagedacht over hoe dit probleem het best kan opgelost worden. Uit inzichten van deze fase alsook uit de volgende fasen, worden zekere eisen geformuleerd waaraan het product moet voldoen (ook in welke mate noodzakelijk), namelijk de Design requirements en ook welke materialen het best gebruikt worden en waar deze aangekocht worden, namelijk de een Bill of materials.
+-	Alle fasen moeten binnen de voorziene deadline (zie [Methodologie](./docs/methodologie.md)) afgewerkt worden.
+Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md), nagedacht over hoe dit probleem het best kan opgelost worden. Uit inzichten van deze fase alsook uit de volgende fasen, worden zekere eisen geformuleerd waaraan het product moet voldoen (ook in welke mate noodzakelijk), namelijk de [Design Requirements](./docs/design_requirements.md) en ook welke materialen het best gebruikt worden en waar deze aangekocht worden, namelijk de een [Bill of materials](./docs/bom.md).
 
 
 ---
