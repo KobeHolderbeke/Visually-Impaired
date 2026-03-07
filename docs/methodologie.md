@@ -40,7 +40,7 @@ Het omvat:
   2\. Hoe worden deze functies geïntegreerd in het product?
      (Vormgeving, simpliciteit, metaforen, etc.).
      _Rekening houdend met verworven inzichten uit Discovery. Constraint: ook bruikbaar
-      zonder visual cues._ 
+        zonder visual cues._ 
 
 - Schetsen:
   Doel: ideeën communiceren met team, het vroegtijdig identificeren van
@@ -62,7 +62,7 @@ Het omvat:
   
   3\. Report opstellen (Report wave 1, Report wave 2)
      _Wat zijn de verworven inzichten? Is dit zoals verwacht? Waren er problemen?
-      Implicaties voor design? …_ 
+        Implicaties voor design? …_ 
 
 Dit proces wordt tijdens deze fase tweemaal uitgevoerd, onder de vorm van 2 waves. 
 
