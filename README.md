@@ -29,7 +29,7 @@ Dit neemt zowel de kloof van het leren van een nieuwe taal weg, alsook de frustr
 *perfect pitch: Het vermogen om een ​​bepaalde toonhoogte te identificeren of na te bootsen zonder gebruik te maken van een referentietoon.  
 
  
-![ProofOfConcept](introfoto.jpg)
+![ProofOfConcept](Proofofconcept.jpg)
   
 </p>
 
@@ -42,7 +42,7 @@ Er wordt gebruikgemaakt van een zekere methode (zie Methodologie), welke het ont
 
 Tijdens de eerste fase, Discovery, is binnen het ruime probleem (afgeleid uit de challenge), gezocht naar een specifieker deelprobleem: 
 
-![ProofOfConcept](Introductie_Foto).jpg).
+![ProofOfConcept](introfoto.jpg).jpg).
 
 Dit specifieker probleem kadert het project niet rond het vervullen van basisnoden zoals oriëntatie/koken/…, maar wel rond het ondersteunen van ontspanning en zelfexpressie voor slechtziende (aspirant-)muzikanten, door het leerproces van muziek voor hen aangenamer te maken. 
 Het brengt volgende hoofddoelen met zich mee:
