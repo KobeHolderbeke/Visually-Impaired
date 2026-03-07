@@ -1,70 +1,49 @@
 ## Discovery
 
-De Discovery fase werd gestart met het afnemen van een semigestructureerd interview met een slechtziende deelnemer (naam geanonimiseerd). Tijdens dit interview werden vragen gesteld die overeenkomen met het vooraf opgestelde onderzoeksprotocol (zie bijlage/doorverwijzing). Al snel werden meerdere terugkerende knelpunten geïdentificeerd. Aspecten zoals oriëntatie, verplaatsing en het gebruik van touchscreens kwamen duidelijk naar voren als bronnen van frustratie (**pains**). Voor deze problematieken bestaan echter reeds diverse producten en concepten op de markt.  
+Het doel van de discoveryfase is om een antwoord te vinden op de vraag: 
+ 
+_Hoe kunnen we slechtziende en blinde personen ondersteunen bij het begrijpen van hun omgeving via een slim product?_
 
-Na verdere verdieping in persoonlijke interesses en hobby’s verschoof de focus van het interview naar het thema muziek. Muziek werd hierbij geïdentificeerd als een vorm van kunst en cultuur die door slechtzienden en blinden kan worden beoefend en beleefd, maar waarvan de uitvoering en het aanleerproces niet altijd evident verlopen.  
+Dit vindt plaats onder de vorm van verschillende onderzoekstappen, volgens een systematisch proces (Methodologie): 
+- Semigestructureerd interview
+- Analyse van pains & gains
+- Literatuuronderzoek
+- Benchmarking van bestaande oplossingen
+- Synthese naar design requirements 
 
-Deze vaststelling vormde de basis voor de inspiratie om een product te ontwikkelen dat het verwerken en aanleren van muziekpartituren voor blinden toegankelijker maakt. Om tot onderbouwde ontwerpbeslissingen te komen, moesten meerdere onderzoeksvragen beantwoord worden:  
+**Interviews (N=3)** 
 
-- Welke oplossingen bestaan momenteel voor het aanleren van muziekpartituren door blinden?  
-- Waar ontstaan de grootste frustraties tijdens het aanleren van muziek?  
-- Hoe werkt braillemuzieknotatie en wat zijn de beperkingen hiervan?  
-- Bestaan er auditieve hulpmiddelen voor het aanleren van muziek?  
-- (Aanvullende onderzoeksvragen volgen)  
+Het doel van de interviews is om inzicht te krijgen in dagelijkse frustraties, noden en bestaande strategieën bij het uitvoeren van alledaagse activiteiten. 
 
----
+Aanvankelijk kwamen knelpunten zoals oriëntatie, mobiliteit en het gebruik van touchscreens naar voren. Aangezien hiervoor al enkele oplossingen voor bestaan, werd verder ingezoomd op persoonlijke interesses. 
 
-### Bevindingen uit het interview
+Hieruit bleek dat muziek een belangrijke rol speelt in het leven van de deelnemer, maar dat er bij het aanleren van muziekstukken en het werken met partituren nog aanzienlijke verbeteringen mogelijk zijn. 
 
-Uit het interview konden reeds enkele belangrijke conclusies worden getrokken. Braillepartituren bleken geen optimale oplossing, aangezien slechts een beperkt percentage van de blinde populatie braille kan lezen. Bovendien vraagt het aanleren van braillemuzieknotatie een hoge cognitieve belasting. Hierdoor werd duidelijk dat een mogelijke oplossing primair moet steunen op auditieve interactie.  
+De deelnemer gaf aan voornamelijk op gehoor te leren en weinig gebruik te maken van braillepartituren, onder andere dor een hoge cognitieve belasting en beperkte toegankelijkheid. 
 
-Daarnaast gaf de geïnterviewde aan muziek voornamelijk aan te leren door te luisteren en op gehoor te spelen. Deze manier van werken wordt aangeduid als **relatief gehoor**. Op basis hiervan ontstond de hypothese dat blinden mogelijk sneller relatief of zelfs absoluut gehoor ontwikkelen, wat het herkennen van tonen zonder referentie inhoudt. Deze aanname vereiste verdere onderbouwing via literatuuronderzoek.  
+Om dit onderwerp verder te verdiepen, werd aanvullend onderzoek uitgevoerd om na te gaan of hier daadwerkelijk sprake is van een significant probleem. Dit aan de hand van literatuuronderzoek. 
 
----
+**Literatuuronderzoek (N=10)** 
 
-### Literatuuronderzoek
+Focus lag op: 
+- Braillemuzieknotatie en de beperkingen ervan
+- Relatief en absoluut gehoor bij slechtzienden en blinden
+- Bestaande auditieve hulpmiddelen
+- De impact van onderbrekingen op de muzikale leercurve 
 
-In een volgende fase van de discovery werd een uitgebreid literatuuronderzoek uitgevoerd. Dit onderzoek richtte zich enerzijds op het fenomeen relatief en absoluut gehoor bij slechtzienden en blinden, en anderzijds op bestaande oplossingen en hulpmiddelen die mogelijk niet bekend waren bij de geïnterviewde. Tijdens dit proces werd voornamelijk gebruikgemaakt van wetenschappelijke publicaties en consensusbronnen (zie protocolverwijzingen).  
+Braillepartituren leken te complex, omvangrijk en beperkt beschikbaar. Daarnaast beheerst slechts een minderheid van de blinde populatie braille(muzieknotatie), wat de toegankelijkheid verkleint. 
 
-De literatuur bevestigde de beperkingen van braillepartituren: niet alleen is het aantal gebruikers beperkt, ook de partituren zelf zijn complex, omvangrijk en sterk gelimiteerd in beschikbaarheid. Daarnaast werd vastgesteld dat slechtzienden en blinden gemiddeld een verhoogde kans hebben op het ontwikkelen van relatief en/of absoluut gehoor, en dat auditief leren voor deze doelgroep vaak vanzelfsprekender verloopt.  
+Verder tonen verschillende bronnen (zie literatuuronderzoek report) aan dat slechtzienden en blinden gemiddeld sterker vertrouwen op auditieve verwerking en veel vaker relatief en absoluut gehoor ontwikkelen (bepalen toonhoogtes in context/ toonherkenning). Auditief leren sluit daardoor beter aan bij hun natuurlijke leerstrategie. 
 
-Een bijkomend aandachtspunt binnen het onderzoek betrof de impact van het onderbreken van oefensessies op de leercurve bij het aanleren van een muziekinstrument. De onderliggende redenering vertrekt vanuit de vaststelling dat het bespelen van de meeste instrumenten het gelijktijdig gebruik van beide handen vereist.  
+Ook werd bevestigd dat frequente onderbrekingen tijdens het oefenen een negatieve invloed hebben op de leercurve. Bij slechtzienden ontstaat dit door het verplicht zijn van hun handen van hun instrument te halen om zo te kunnen lezen of een fragment opnieuw te doen afspelen. 
 
-Bij zaken zoals auditieve hulpmiddelen of braillepartituren ontstaat de noodzaak om het oefenproces regelmatig te onderbreken. Zo moet bij auditieve oplossingen vaak een externe interface, zoals een smartphone, bediend worden om fragmenten te herhalen of vooruit te spoelen. Bij braillepartituren moeten beide handen van het instrument worden gehaald om specifieke secties in de partituur op te zoeken. Deze handelingen zorgen voor frequente onderbrekingen van de oefensessie.  
+**Benchmarking (N=10)** 
 
-Uit aanvullend onderzoek blijkt dat dergelijke onderbrekingen een negatieve invloed hebben op het leerproces en de leercurve significant vertragen. De continue wissel tussen oefenen en navigeren in ondersteunende hulpmiddelen verstoort de cognitieve en motorische flow die essentieel is voor muzikale ontwikkeling.  
+Het doel van benchmarking is het analyseren hoe hedendaagse producten/services het probleem van het aanleren van de muziek aanpakken. 
 
-Indien deze onderbrekingen kunnen worden geminimaliseerd of volledig geëlimineerd, en gecombineerd met een concept dat het aanleren van muziek intuïtiever maakt, ontstaat een bijzonder interessant uitgangspunt voor verdere conceptontwikkeling. Dit inzicht vormt dan ook een belangrijke ontwerpkans binnen het verdere traject.  
+Hieruit bleek dat er momenteel nog geen fysieke producten bestaan, de enige oplossing is Talking Scores. Dit is een software die online partituur bestanden kan omzetten naar text to speech partituren, maar zelf dit werd gemaakt door een groep mensen in hun vrije tijd en is voorlopig voor blinden zo goed als niet bruikbaar. 
 
----
+**Besluit** 
 
-### Analyse van bestaande oplossingen
+De verzamelde inzichten tonen aan dat het ontwikkelen van een oplossing binnen dit domein niet alleen relevant, maar ook noodzakelijk is om het muzikale leerproces voor slechtzienden en blinden toegankelijker en efficiënter te maken.
 
-Bij het onderzoeken van bestaande oplossingen voor deze specifieke problematiek werd slechts één relevante tool geïdentificeerd: **Talking Scores**. Deze software zet digitale muziekpartituren, doorgaans opgeslagen in XML-formaat, om naar **text-to-speech**. Hierdoor wordt de inhoud van de partituur auditief weergegeven, waarbij onder andere akkoorden en structurele elementen van een muziekstuk worden gedicteerd.  
-
-Hoewel deze oplossing bepaalde beperkingen kent, zoals een beperkte expressiviteit en afhankelijkheid van bestaande digitale partituren, biedt ze wel een significant hogere toegankelijkheid voor blinden. Het gebruik van braillekennis is hierbij niet vereist, wat de drempel aanzienlijk verlaagt.  
-
----
-
-### Samenvatting discovery
-
-De resultaten van deze analyse vormen de basis voor een tabel waarin alle relevante **design requirements** voor de materialisatie van het eerste prototype worden samengevat:  
-
-| # | Design Requirement |
-|---|------------------|
-| 1 | Primair auditieve interactie |
-| 2 | Minimale nood aan visuele of tactiele leesvaardigheden |
-| 3 | Beperking van onderbrekingen tijdens het oefenen |
-| 4 | Handsfree of low-effort bediening |
-| 5 | Ondersteuning van relatief en absoluut gehoor |
-| 6 | Modulair en stapsgewijs leren |
-| 7 | Compatibiliteit met bestaande muziekformaten |
-| 8 | Lage cognitieve belasting |
-
----
-
-### Persona
-
-De verzamelde kwalitatieve en kwantitatieve data maakten het mogelijk om een goed onderbouwde persona te construeren. Deze persona weerspiegelt de kernkenmerken van de beoogde gebruiker en ondersteunt het maken van consistente en doelgroepgerichte ontwerpkeuzes.  
-
-![Persona](PersonaNederlands.jpg)
