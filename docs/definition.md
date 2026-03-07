@@ -115,5 +115,62 @@ Key takeaways
 _Voor een volledige beschrijving, zie Wave 1 Report_
 
 ---
-## Wave 2
+### Wave 2
+
+**Brainstorm** 
+
+De nieuwe inzichten/ideeën voor het prototype bekomen uit de eerste gebruikerstest worden in rekening genomen bij deze ideegeneratie, met name 2 inputs per voet, een neutrale, horizontale rustpositie, meer weerstand bij indrukking en een robuuster geheel.  
+
+Ook wordt antropometrie nu toegepast. 
+
+![Brainstorm 2](FOTO Brainstorm 2) 
+
+![Antropometrie](FOTO antropometrie)
+
+**Prototypen** 
+
+Zoals het eerste prototype wordt ook dit prototype gematerialiseerd uit vooral karton. Echter zijn het deze keer meerdere lagen op elkaar geplakt wat voor extra stevigheid zorgt. Ook is het veringmechanisme anders: hier worden elastieken (haarbandjes) gebruikt.
+
+![Prototyping 2](FOTO Prototyping 2)
+
+Aan de app wordt in het theoretische model een ‘Settings’-knop toegevoegd, alsook de optie om de spraakassistent aan/uit te zetten. 
+
+**Testen (Zie ook Methodologie)** 
+
+<ins>Protocol</ins>  
+
+Dezelfde zaken als bij de vorige test worden opnieuw onderzocht, met nog een extra nadruk op de tekortkomingen van prototype 1. De loop van het onderzoek is voor een groot deel identiek. Zowel het eerste prototype (pedalen) als het nieuwe prototype worden getest.  
+
+De prototypes worden onderling vergeleken op vlak van prestatie in de verschillende meetgebieden, zowel observerend als door de mening te vragen van de proefpersoon _(QAP)_. 
+
+_Voor een volledige beschrijving, zie Wave 2 Protocol._ 
+
+<ins>Test</ins>
+
+Prototype 2 presteerde ondermaats bij de opstellingstest.
+
+![TEST 2](FOTO TEST 2)
+
+_QAP 
+“Pedalen zijn makkelijk en compact.” 
+“Prototype 2 is te complex, lomp en groot, maar betere druksensatie.”_ 
+
+<ins>Report</ins>
+
+Key takeaways 
+- Balans vinden tussen complexiteit, functionaliteit en grootte
+- Signaleer ordening, plaatsing en oriëntatie met textuur en vorm
+- Eliminatie van intermediaire confirmatieschermen, met als substitutie “Return”-knop overwegen
+  (App) 
+
+_Voor een volledige beschrijving, zie Wave 2 Report._
+
+---
+### Convergence of waves
+
+Gebaseerd op de takeaways van de 2 testen wordt een nieuw theoretisch prototype uitgewerkt om de Definition fase mee af te sluiten. 
+
+![COW 1](FOTO COW 1)
+
+![COW 2](FOTO COW 2)
 
