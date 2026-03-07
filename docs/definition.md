@@ -1,7 +1,31 @@
 ## Definition
-### Prototypefase en Gebruikerstesten
+Het doel van de Definition fase is om een antwoord te vinden op de vraag:  
 
-In deze fase werden de bevindingen uit de discoveryfase samengebracht en vertaald naar enkele eerste, verkennende prototypes. Om snel te kunnen itereren en vroegtijdige gebruikerstesten mogelijk te maken, werd gekozen voor **low-fidelity prototyping**. Hierbij werd voornamelijk karton ingezet in combinatie met een **Makey Makey**, waarmee eenvoudige gebaren (gestures) konden worden omgezet naar directe feedback. Daarnaast kon het hoofdprincipe van het concept op een visuele manier worden vastgelegd en gecommuniceerd aan de hand van een **storyboard**, zodat het ontwerpidee duidelijk werd voor zowel het team als mogelijke testers.  
+_“Hoe kunnen we de leercurve voor slechtziende muzikanten verkleinen door de haptische feedback te verbeteren en interactie zonder handen mogelijk te maken?” (Introductie)_ 
+
+Dit vindt plaats onder de vorm van twee waves, door het volgen van een vast proces (Methodologie): 
+- Brainstormen _(Functies, vormgeving)_
+- Schetsen _(Conceptuele uitwerking)_
+- Prototypen _(Materialisatie)_
+- Testen _(Validatie/verbetering/eliminatie, inzichten, N = 2)_ 
+
+### Wave 1 
+
+**Brainstorm** 
+
+Er kon gewerkt worden met intuïtie, Discovery interviews en benchmarking om te veronderstellen wat het product zou moeten doen en hoe het er zoal zou kunnen uitzien. 
+
+Eerst werden de functies bepaald: 
+
+Het product moet de gebruiker in staat stellen de muziektrack, audiopartituur te kunnen: 
+- Pauzeren
+- Hervatten
+- Doorspoelen
+- Terugspoelen 
+
+Voor de vormgeving waren relevante inzichten uit benchmarking dat compactheid een grote rol speelt en dat vaak gebruikgemaakt wordt van metaforen. _(vormen/functies van alledaagse producten die al bij mensen bekend zijn)._ 
+
+Hierdoor kwam het idee van twee pedalen _(1 per voet)_, vergelijkbaar met gitaarpedalen: 
 
 ![StoryBoard](Storyboard.jpg)
 
