@@ -34,9 +34,9 @@ Het omvat:
 
 - Brainstormen: 
 
-  1. Wat moet het product kunnen? (Functies).
+  1\. Wat moet het product kunnen? (Functies).
      _Aanvankelijk enigszins intuïtief, na testen concreter._
-  3. Hoe worden deze functies geïntegreerd in het product?
+  2\. Hoe worden deze functies geïntegreerd in het product?
      (Vormgeving, simpliciteit, metaforen, etc.).
      _Rekening houdend met verworven inzichten uit Discovery. Constraint: ook bruikbaar zonder
      visual cues._ 
@@ -54,10 +54,10 @@ Het omvat:
 
 - Testen (N = 2):
 
-  1. Protocol opstellen (Protocol wave 1, Protocol wave 2).
+  1\. Protocol opstellen (Protocol wave 1, Protocol wave 2).
      _Wat wordt getest? Op welke manier? Question Asking Protocol achteraf …_
-  2. Test uitvoeren 
-  3. Report opstellen (Report wave 1, Report wave 2)
+  2\. Test uitvoeren 
+  3\. Report opstellen (Report wave 1, Report wave 2)
      _Wat zijn de verworven inzichten? Is dit zoals verwacht? Waren er problemen? Implicaties
      voor design? …_ 
 
