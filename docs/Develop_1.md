@@ -133,4 +133,4 @@ De app is in deze fase grotendeels hetzelfde in vergelijking met de vorige fase.
 
 Uit de test van het opstellen bleek dat een aanhangsel niet zo intuïtief is. Alle respondenten konden de hoofddoos correct plaatsen maar wisten niet wat men met het aanhangsel (“ctlr” pedaal) moest doen. 
 
-[Foto](/img/RES1)
+[Foto](/img/RES1.png)
