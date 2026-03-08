@@ -5,4 +5,4 @@ Dat is de vraag die gesteld wordt om de ontwikkelingsfase van start te laten gaa
 
 Er zijn al een reeks aan inzichten bekomen (zie Definition), welke zich uiten als streefpunten voor volgende prototype iteraties en al een preciezer beeld schetsen van het uiteindelijke prototype.
 
-![COW](/img/DEF1.png)
+![COW](/img/DEV1.png)
