@@ -117,3 +117,20 @@ Dit hangt vast aan de design requirement die stelt dat het product een lage cogn
 
 ---
 # Test resultaten
+
+## App
+
+De app is in deze fase grotendeels hetzelfde in vergelijking met de vorige fase. Uit de test zijn deze conclusies getrokken: 
+- Eliminatie van bevestigingsschermen heeft geen negatieve invloed op taakvoltooiing, maar
+  reduceert tijd om taak te voltooien in significante mate. Deze aanpassing blijft behouden.
+- Partituur scanfunctie in app integreren. Er bestaan hier al voorbeelden van zoals
+  https://scan-score.com/en/  
+- Mogelijke verwarring van lijstopdeling in achterhoofd houden dit oplossen aan de hand van
+  tabbladen. 
+- Een geschreven handleiding toevoegen over alle nodige besturingsinfo van het product.
+
+## Prototype 1
+
+Uit de test van het opstellen bleek dat een aanhangsel niet zo intuïtief is. Alle respondenten konden de hoofddoos correct plaatsen maar wisten niet wat men met het aanhangsel (“ctlr” pedaal) moest doen. 
+
+[Foto](/img/RES1)
