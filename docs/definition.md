@@ -28,7 +28,7 @@ Voor de vormgeving waren relevante inzichten uit benchmarking dat compactheid ee
 
 Hierdoor kwam het idee van twee pedalen _(1 per voet)_, vergelijkbaar met gitaarpedalen: 
 
-![PEDAAL](DEF1.png)
+![PEDAAL](/DEF1.png)
 
 **Schetsen** 
 
