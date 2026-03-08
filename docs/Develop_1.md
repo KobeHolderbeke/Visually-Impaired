@@ -45,6 +45,14 @@ De storyboard wordt verder verfijnd om meer aan te sluiten bij de huidige visie 
 
 ### Hiërarchische taakanalyse
 
+**app**
+
+![app]()
+
+**prototype**
+
+![Prototype]()
+
 ### Morfologische matrix
 
 ![MM](/img/Morfomatrix.jpeg)
