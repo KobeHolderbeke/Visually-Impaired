@@ -50,7 +50,7 @@ De storyboard wordt verder verfijnd om meer aan te sluiten bij de huidige visie 
 ![MM](/img/Morfomatrix.jpeg)
 
 ---
-## Hoe bouwen we hier op voort?
+## Hoe bouwen we hierop voort?
 
 Echter resteren er nog veel vragen, welke meer onderzoek nodig hebben om beantwoord te worden. Deze onderzoeksvragen worden gerangschikt op mate van urgentie en ook in diezelfde volgorde getest. 
 
