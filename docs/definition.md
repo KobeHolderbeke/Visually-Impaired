@@ -3,7 +3,7 @@ Het doel van de Definition fase is om een antwoord te vinden op de vraag:
 
 _“Hoe kunnen we de leercurve voor slechtziende muzikanten verkleinen door de haptische feedback te verbeteren en interactie zonder handen mogelijk te maken?” [Introductie](/README.md)_ 
 
-Dit vindt plaats onder de vorm van twee waves, door het volgen van een vast proces (Methodologie): 
+Dit vindt plaats onder de vorm van twee waves, door het volgen van een vast proces [Methodologie](/docs/methodologie.md): 
 - Brainstormen _(Functies, vormgeving)_
 - Schetsen _(Conceptuele uitwerking)_
 - Prototypen _(Materialisatie)_
@@ -82,7 +82,7 @@ Dit gebeurt in deze fase enkel theoretisch, in een Word document waarin alle inp
 
 Deze app wordt mondeling getest, waarin een onderzoeker zich voordoet als de app.
 
-**Testen (Zie ook Methodologie)** 
+**Testen (Zie ook ^[Methodologie](/docs/methodologie.md)** 
 
 <ins>Protocol</ins>  
 
@@ -92,7 +92,7 @@ Voor de app wordt geobserveerd of de gebruiker ergens vast komt te zitten of sta
 
 Ook het volledige stappenplan van hoe de test verloopt staat beschreven. 
 
-_Voor een volledige beschrijving, zie Wave 1 Protocol_ 
+_Voor een volledige beschrijving, zie Wave 1 [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQCpgV68K8tYTbwqrU3BGaQVAbbZWw5pqcu_k0QDw4POE8I?e=BGHP7T)_ 
 
 <ins>Test</ins>
 
@@ -112,7 +112,7 @@ Key takeaways
   te zetten
 - Settings knop toevoegen
   
-_Voor een volledige beschrijving, zie Wave 1 Report_
+_Voor een volledige beschrijving, zie Wave 1 [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQAky_YwA6__RZtaeOcWHPhpASCxieU0GRjqjp9feo6laxo?e=5y6nlD)_
 
 ---
 ### Wave 2
@@ -135,7 +135,7 @@ Zoals het eerste prototype wordt ook dit prototype gematerialiseerd uit vooral k
 
 Aan de app wordt in het theoretische model een ‘Settings’-knop toegevoegd, alsook de optie om de spraakassistent aan/uit te zetten. 
 
-**Testen (Zie ook Methodologie)** 
+**Testen (Zie ook [Methodologie](/docs/methodologie.md))** 
 
 <ins>Protocol</ins>  
 
@@ -143,7 +143,7 @@ Dezelfde zaken als bij de vorige test worden opnieuw onderzocht, met nog een ext
 
 De prototypes worden onderling vergeleken op vlak van prestatie in de verschillende meetgebieden, zowel observerend als door de mening te vragen van de proefpersoon _(QAP)_. 
 
-_Voor een volledige beschrijving, zie Wave 2 Protocol._ 
+_Voor een volledige beschrijving, zie Wave 2 [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBjjLZSffDoT4YwZDXaZOrhAfhvxaoLlUYGOMogOBo6GUY?e=pMHGh2)._ 
 
 <ins>Test</ins>
 
@@ -163,7 +163,7 @@ Key takeaways
 - Eliminatie van intermediaire confirmatieschermen, met als substitutie “Return”-knop overwegen
   (App) 
 
-_Voor een volledige beschrijving, zie Wave 2 Report._
+_Voor een volledige beschrijving, zie Wave 2 [Report](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQBcQqR74zqURJhRp2q5rA2XAcczsUglUP6ll5FD3lllPYg?e=BxCLvT)._
 
 ---
 ### Convergence of waves
