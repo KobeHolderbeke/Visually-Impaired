@@ -35,3 +35,13 @@
 | **T1** | **Fysieke & Technische Randvoorwaarden** | Het product biedt een stabiele rust positie aan de gebruiker (ergonomisch). | User-Test 1 |✅|
 | **T2** |  | Het product biedt signifiers om de opstelling correct te plaatsen. | User-Test 2 |⚠️|
 | **T3** |  | Het product is compatibel met bestaande muziekformaten. | Literatuur |⚠️|
+|  |  |  |  |  |
+| **D1** | **Develop phase 1** | De app biedt de optie om uitleg te geven aan de gebruiker over hoe de pedalen werken. | User-Test Develop phase 1 |⚠️|
+| **D2** |  | Het product signaleert enkel naar bedoelde affordances. | User-Test Develop phase 1 |⚠️|
+| **D3** |  | Het product elimineert zoveel mogelijk ongewenste nuance in interpretatie van gebruik. | User-Test Develop phase 1 |⚠️|
+| **D4** |  | Het product heeft een zo snel mogelijke bediening. | User-Test Develop phase 1 |⚠️|
+| **D5** |  | Het product is zo compact als mogelijk, met een voorkeur naar verticale compactheid, boven horizontale. | User-Test Develop phase 1 |⚠️|
+| **D6** |  | De app biedt en manier van navigeren door de muziekcatalogus, die intuïtief en verstaanbaar is voor de gebruiker. | User-Test Develop phase 1 |⚠️|
+| **D7** |  | Het product minimaliseert het risico op verkeerde inputs. | User-Test Develop phase 1 |⚠️|
+| **D8** |  | Het product biedt een vorm van tril feedback. | User-Test Develop phase 1 |⚠️|
+| **D9** |  | Het product heeft een bediening die zo min mogelijke voetverplaatsing vereist. | User-Test Develop phase 1 |⚠️|
