@@ -100,7 +100,9 @@ Anderzijds wordt deze keuze gemaakt vanuit de design requierments. Het bied een 
 
 ![COW](/img/DEV15.png)
 
-Dit prototype is gebaseerd op de rust positie van de gebruiker, hiermee wordt verwacht dat wanneer er geen input moet gegeven worden, de voeten niet van de controller moeten gehaald worden. Ook moet de voet zich niet verplaatsen naar een alternatieve input, want per voet zijn er twee inputs. Dit hangt vast aan de design requirement die stelt dat het product een lage cognitieve belasting moet hebben tijdens het gebruik. Doordat de voet niet constant op en af een input moet gezet worden, is dit zowel voor inputs geven als ergonomische rust positie een aangenamere keuze.
+Dit prototype is gebaseerd op de rust positie van de gebruiker, hiermee wordt verwacht dat wanneer er geen input moet gegeven worden, de voeten niet van de controller moeten gehaald worden. Ook moet de voet zich niet verplaatsen naar een alternatieve input, want per voet zijn er twee inputs. 
+
+Dit hangt vast aan de design requirement die stelt dat het product een lage cognitieve belasting moet hebben tijdens het gebruik. Doordat de voet niet constant op en af een input moet gezet worden, is dit zowel voor inputs geven als ergonomische rust positie een aangenamere keuze. Het constant moeten verplaatsen van de voeten kan een drempel zijn bij het pedalen prototype. Aan de hand van dit prototype is het de bedoeling om te testen welk van de twee principes het best zal zijn om als finaal input principe te nemen.
 
 **Prototyping**
 
