@@ -28,7 +28,7 @@ Voor de vormgeving waren relevante inzichten uit benchmarking dat compactheid ee
 
 Hierdoor kwam het idee van twee pedalen _(1 per voet)_, vergelijkbaar met gitaarpedalen: 
 
-![PEDAAL](FOTO PEDAAL)
+![PEDAAL](img/DEF1.png)
 
 **Schetsen** 
 
@@ -36,7 +36,7 @@ Rekening houdend met de vooropgestelde eigenschappen komt het schetsproces uit o
 
 Zoals weergegeven bieden deze 2 pedalen genoeg inputmogelijkheden om de vooropgestelde functies te kunnen uitvoeren.
 
-![SCHETSEN](FOTO SCHETSEN) 
+![SCHETSEN](img/DEF2.png) 
 
 **Prototypen** 
 
@@ -44,11 +44,11 @@ De materialisatie gebeurt vooral uit karton, met willekeurig gevonden houten blo
 
 Er wordt ook een Makey Makey kit gebruikt met als hoop functionaliteit aan het prototype toe te voegen. De draden worden met plakband bevestigd en gepositioneerd zodanig dat deze contact maken bij indrukking. 
 
-![PROTOTYPE VISUAL](FOTO PROTOTYPE VISUAL) 
+![PROTOTYPE VISUAL](img/DEF3.png) 
 
 Bij een zelftest van het prototype werkt de Makey Makey zoals gewenst: bij aansluiting aan een laptop kan met de pedaal een video gepauzeerd en hervat worden. 
 
-![ZELFTEST](FOTO zelftest) 
+![ZELFTEST](img/DEF4.png) 
 
 De Makey Makey is echter beperkt in welke outputs het van zichzelf aan de laptop kan overbrengen, namelijk: left-click, spatie en de pijltjestoetsen. 
 
@@ -62,7 +62,7 @@ E.g. deze van Mediaspeler:
 
 De Makey Makey biedt geen Ctrl output. Om dit te omzeilen wordt een extra input converter programma geïnstalleerd _(PowerToys)_: 
 
-![POWERTOYS](FOTO POWERTOYS) 
+![POWERTOYS](img/DEF5.png) 
 
 Bij het testen van de combinatie van de Makey Makey en PowerToys input converter, werkten de nieuwe inputs niet in Mediaspeler, noch in Spotify. Ook in Word was er geen werking.  
 
@@ -78,7 +78,7 @@ Met behulp hiervan zal dus een eigen app ontwikkeld moeten worden.
 
 Dit gebeurt in deze fase enkel theoretisch, in een Word document waarin alle inputs en outputs van de app beschreven staan. 
 
-![APP WAVE 1](FOTO app wave 1) 
+![APP WAVE 1](img/DEF6.png) 
 
 Deze app wordt mondeling getest, waarin een onderzoeker zich voordoet als de app.
 
@@ -96,7 +96,7 @@ _Voor een volledige beschrijving, zie Wave 1 Protocol_
 
 <ins>Test</ins>
 
-![Test 1](FOTO test 1) 
+![Test 1](img/DEF7.png) 
 
 <ins>Report</ins>
 
@@ -123,15 +123,15 @@ De nieuwe inzichten/ideeën voor het prototype bekomen uit de eerste gebruikerst
 
 Ook wordt antropometrie nu toegepast. 
 
-![Brainstorm 2](FOTO Brainstorm 2) 
+![Brainstorm 2](img/DEF8.png) 
 
-![Antropometrie](FOTO antropometrie)
+![Antropometrie](img/DEF9.png)
 
 **Prototypen** 
 
 Zoals het eerste prototype wordt ook dit prototype gematerialiseerd uit vooral karton. Echter zijn het deze keer meerdere lagen op elkaar geplakt wat voor extra stevigheid zorgt. Ook is het veringmechanisme anders: hier worden elastieken (haarbandjes) gebruikt.
 
-![Prototyping 2](FOTO Prototyping 2)
+![Prototyping 2](img/DEF10.png)
 
 Aan de app wordt in het theoretische model een ‘Settings’-knop toegevoegd, alsook de optie om de spraakassistent aan/uit te zetten. 
 
@@ -149,7 +149,7 @@ _Voor een volledige beschrijving, zie Wave 2 Protocol._
 
 Prototype 2 presteerde ondermaats bij de opstellingstest.
 
-![TEST 2](FOTO TEST 2)
+![TEST 2](img/DEF11.png)
 
 _QAP 
 “Pedalen zijn makkelijk en compact.” 
@@ -170,7 +170,7 @@ _Voor een volledige beschrijving, zie Wave 2 Report._
 
 Gebaseerd op de takeaways van de 2 testen wordt een nieuw theoretisch prototype uitgewerkt om de Definition fase mee af te sluiten. 
 
-![COW 1](FOTO COW 1)
+![COW 1](img/DEF12.png)
 
-![COW 2](FOTO COW 2)
+![COW 2](img/DEF13.png)
 
