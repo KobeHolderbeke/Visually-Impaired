@@ -11,11 +11,11 @@ Aan de hand hiervan worden enkele zaken schematisch voorgesteld om te dienen als
 
 ### User Flow
 
-![COW](/img/DEV2.png)
+![UF](/img/DEV2.png)
 
 ### Human-Product Interactions
 
-![COW](/img/DEV3.png)
+![HPI](/img/DEV3.png)
 
 ### Informatiearchitectuur
 
@@ -23,29 +23,31 @@ De informatiearchitectuur dient bestudeerd te worden voor zowel de app als mogel
 
 **App**
 
-![COW](/img/DEV4.png)
+![IAA](/img/DEV4.png)
 
 **Controller principe 1**
 
-![COW](/img/DEV5.png)
+![IAC1](/img/DEV5.png)
 
 **Controller principe 2**
 
-![COW](/img/DEV6.png)
+![IAC2](/img/DEV6.png)
 
 ### Customer Journey
 
-![COW](/img/DEV7.png)
+![CJ](/img/DEV7.png)
 
 ### Storyboard
 
 De storyboard wordt verder verfijnd om meer aan te sluiten bij de huidige visie van context en gebruik van het product.
 
-![COW](/img/storyboard.jpg)
+![SB](/img/storyboard.jpg)
 
 ### Hiërarchische taakanalyse
 
 ### Morfologische matrix
+
+![MM](/img/Morfomatrix.jpeg)
 
 ---
 ## Hoe bouwen we hier op voort?
