@@ -1,8 +1,7 @@
 ## Definition
 Het doel van de Definition fase is om een antwoord te vinden op de vraag:  
 
-_“Hoe kunnen we de leercurve voor slechtziende muzikanten verkleinen door de haptische feedback te verbeteren en interactie zonder handen mogelijk te maken?” [Introductie](/)
-_ 
+_“Hoe kunnen we de leercurve voor slechtziende muzikanten verkleinen door de haptische feedback te verbeteren en interactie zonder handen mogelijk te maken?” [Introductie](README.md)_ 
 
 Dit vindt plaats onder de vorm van twee waves, door het volgen van een vast proces (Methodologie): 
 - Brainstormen _(Functies, vormgeving)_
