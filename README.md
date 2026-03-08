@@ -70,7 +70,14 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 
 
 ## Kritische reflectie
-Max. 500 woorden
+De samenwerking binnen de groep verliep vlot en eerlijk verdeeld. Waarbij taken werden verdeeld, vaak werd parallel aan elkaar gewerkt maar soms werd ook per twee aan één deel gewerkt. Er werd enkele keren samen gekomen buiten de lesuren om verder aan het project te werken. 
+
+Tijdens het project verliep de meeste communicatie online, dit zorgde niet voor problemen. 
+
+Het moeilijkste dat de groep ondervond was het vinden van respondenten. Dit grotendeels omdat onze doelgroep niet zo groot is “Blinden die muziek spelen”. Maar beide bleven moeite doen met mails sturen, mensen contacteren. Voor de testen zelf was bij iedere test iedereen van de groep aanwezig zodat alle nodige data kon opgenomen worden.
+
+Voor het maken van prototypes koos elke persoon van de groep een concept en deze werd uitgewerkt. Grotendeels elk zelfstandig met af en toe ondersteuning zodat ze altijd op tijd klaar waren.
+
 
 ## Noot inzake het gebruik van AI
 In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen.
