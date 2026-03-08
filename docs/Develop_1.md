@@ -96,7 +96,7 @@ Bij de conceptualisatie van de pedalen wordt een antropometrische analyse uitgev
 
 ![COW](/img/DEV15.png)
 
-Dit prototype is gebaseerd op de rust positie van de gebruiker, hiermee wordt verwacht dat wanneer er geen input moet gegeven worden, de voeten niet van de controller moeten gehaald worden. Ook moet de voet zich niet verplaatsen naar een alternatieve input, want per voet zijn er twee inputs.
+Dit prototype is gebaseerd op de rust positie van de gebruiker, hiermee wordt verwacht dat wanneer er geen input moet gegeven worden, de voeten niet van de controller moeten gehaald worden. Ook moet de voet zich niet verplaatsen naar een alternatieve input, want per voet zijn er twee inputs. Dit hangt vast aan de design requirement die stelt dat het product een lage cognitieve belasting moet hebben tijdens het gebruik. Doordat de voet niet constant op en af een input moet gezet worden, is dit zowel voor inputs geven als ergonomische rust positie een aangenamere keuze.
 
 **Prototyping**
 
