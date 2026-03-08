@@ -51,7 +51,7 @@ De storyboard wordt verder verfijnd om meer aan te sluiten bij de huidige visie 
 
 **prototype**
 
-![Prototype]()
+![Prototype](/img/Develop_1_-_HTA_-_Controller.png)
 
 ### Morfologische matrix
 
