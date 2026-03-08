@@ -79,6 +79,10 @@ Beide van deze worden uitgewerkt tot een prototype, voldoet aan de bekomen MVP:
 
 Bij de conceptualisatie van de pedalen wordt een antropometrische analyse uitgevoerd van het voetbereik in neutrale zitstand, welke ook bruikbaar kan zijn bij volgende iteraties/onderzoeken/...: 
 
+De keuze van pedalen komt reeds uit vorige testen, waarbij dit een intuïtieve manier is om met de voet inputs te geven. De reden hierdoor is da bijvoorbeeld pianospelers dit kennen van de piano pedalen, dit is dus een metafoor van hun omgeving. 
+
+Anderzijds wordt deze keuze gemaakt vanuit de design requierments. Het bied een lage cognitieve belasting omdat een pedaal gekend is bij de meeste mensen. Het idee is om 2 hoofd pedalen te ontwerpen die hoofdfuncties zullen uitvoeren. Dit is echter niet genoeg om alle functies te kunnen uitvoeren. Hierdoor ontstond het idee om een “CTRL” knop te maken net zoals bij een toetsenbord, waar combinaties worden gemaakt voor meer functies te verkrijgen.  
+
 ![COW](/img/DEV12.png)
 
 **Prototyping**
