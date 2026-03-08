@@ -95,7 +95,7 @@ In dit project werd AI gebruikt voor spellings/grammatica controles van teksten 
 * User testing (N=3)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQAjbiEWOX_lQ4XXfaun0UtAAUon7dIECnejuIu1gmOtWKU?e=WpIFe5)
   * [Rapport 1](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQDN2bwuJPMMSLmgR1tbd45yAW7m6enV3AymeFjA8X_QwLY?e=4EHN3X)
-  * [Rapport 2]()
+  * [Rapport 2](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQC0vbEEvfZeQ49qQybeRaqQAQ82UMk618w59HhCXBCYtpQ?e=vUupAp)
 
 ## Licentie
 
