@@ -209,7 +209,7 @@ In de achteraf gestelde vragen die de prototypes vergeleek. Was duidelijk dat be
 - Indrukken van pedalen in verticale richting is intuïtiever dan indrukken in horizontale richting.
 - Beide prototype varianten zijn in huidige staat niet combineerbaar met piano pedalen.
 - Een horizontaal schuifcontactvlak in de lucht is niet comfortabel bij gebruik, voorkeur gaat naar schuin contact.
-- Nieuw theoretisch model (Figuur 17) vertoont voldoende potentieel om mee verder te werken in het proces.
+- Nieuw theoretisch model vertoont voldoende potentieel om mee verder te werken in het proces.
 - Constrainen kan ook nadelen hebben in specifieke situaties, waarmee rekening moet gehouden worden.
 
 ---
