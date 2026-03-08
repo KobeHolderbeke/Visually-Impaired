@@ -227,3 +227,19 @@ Conclusies:
 
 ---
 ## Design requirements
+
+Uit alle verkregen data kunnen nieuwe design requirements gevormd worden die zich zullen aansluiten bij de huidige [requirements](/docs/design_requirements.md).
+
+- De controller signaleert enkel naar bedoelde affordances.
+- De controller elimineert zoveel mogelijk ongewenste nuance in interpretatie van gebruik.
+- De controller heeft een bediening die zo simpel is als haalbaar.
+- De controller heeft een zo snel mogelijke bediening.
+- De controller minimaliseert het risico van verkeerde inputs.
+- De controller geeft een nauwkeurige response op inputs.
+- De controller biedt zelf een merkbare vorm van tril feedback op inputs.
+- De controller heeft een bediening die zo min mogelijk voetverplaatsing vereist.
+- De controller heeft een bediening die natuurlijk aanvoelt.
+- De controller heeft na langdurig gebruik geen negatieve lichamelijke gevolgen zoals krampen of pijn.
+- De controller is zo compact als mogelijk, met een voorkeur naar verticale compactheid, boven horizontale.
+- De app biedt aan de gebruiker de optie om uitleg te krijgen over hoe de pedalen werken.
+- De app biedt een manier van navigeren door de muziekcatalogus, die intuïtief en verstaanbaar is voor de gebruiker. 
