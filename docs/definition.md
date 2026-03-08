@@ -82,7 +82,7 @@ Dit gebeurt in deze fase enkel theoretisch, in een Word document waarin alle inp
 
 Deze app wordt mondeling getest, waarin een onderzoeker zich voordoet als de app.
 
-**Testen (Zie ook ^[Methodologie](/docs/methodologie.md)** 
+**Testen (Zie ook [Methodologie](/docs/methodologie.md))** 
 
 <ins>Protocol</ins>  
 
