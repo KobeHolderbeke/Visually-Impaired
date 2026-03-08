@@ -129,8 +129,101 @@ De app is in deze fase grotendeels hetzelfde in vergelijking met de vorige fase.
   tabbladen. 
 - Een geschreven handleiding toevoegen over alle nodige besturingsinfo van het product.
 
+---
 ## Prototype 1
 
 Uit de test van het opstellen bleek dat een aanhangsel niet zo intuïtief is. Alle respondenten konden de hoofddoos correct plaatsen maar wisten niet wat men met het aanhangsel (“ctlr” pedaal) moest doen. 
 
+**Respondent 1**
+
 ![Foto](/img/RES1.png)
+
+**Respondent 2**
+
+![Foto](/img/RES2.png)
+
+**Respondent 3**
+
+![Foto](/img/RES3.png)
+
+Uit de test voor het plaatsen van de voeten voor een algemene input ging dit algemeen vlot. Alle respondenten konden de pedalen indrukken zoals gewenst. Alleen is de rust positie van de voeten niet zoals verwacht. Twee van de respondenten plaatsen de voeten op de grond in plaats van op het pedaal en één respondent zweefde over het pedaal. 
+
+**Respondent 1**
+
+![Foto](/img/RES4.png)
+
+**Respondent 2**
+
+![Foto](/img/RES5.png)
+
+**Respondent 3**
+
+![Foto](/img/RES6.png)
+
+Uit de test van de controle input werd meer informatie verzameld. Niet alle respondenten wisten hoe ze een speciale input moesten geven (combinatie input). Hieruit bleek dat het beter is om alles als één samenhangend geheel te behouden en mogelijk andere textuur voor het “ctrl” pedaal te gebruiken. 
+
+**Respondent 1**
+
+![Foto](/img/RES7.png)
+
+**Respondent 2**
+
+![Foto](/img/RES8.png)
+
+**Respondent 3**
+
+![Foto](/img/RES9.png)
+
+Tijdens het analyseren van het gebruik van het prototype na onze uitleg en na dat de respondenten zelf al eens getest hebben, was er geen twijfel of onzekerheid bij de proefpersonen. 
+
+---
+## Prototype 2
+
+Bij dit prototype is het de bedoeling dat men de boog van zich weg plaatst om zo de inputs te kunnen bedienen. Echter voor niemand was dit intuïtief, want de affordances waren niet goed genoeg bij dit prototype.  
+
+**Voetplaatsingstest (ruststand) & bedieningstest** 
+
+_Opmerking:_
+Omdat de rustpositie plaats vindt op het prototype speelt deze automatisch een rol in het besturen van het prototype. 
+
+**Respondent 1**
+
+![Foto](/img/RES10.png)
+
+**Respondent 2**
+
+![Foto](/img/RES11.png)
+
+**Respondent 3**
+
+![Foto](/img/RES12.png)
+
+Tijdens het gebruiken van het prototype werd er eerst bij de respondenten een twijfel of onzekere gelaatsuitdrukking waar genomen. Pas na dat men geholpen werd liep het vlotter. Uit de test van dit prototype ontstond een brainstorm, hierdoor ontstond een nieuw theoretisch concept. Wat voor hen beter leek voor deze potentieel hebbende input methode. Bij dit model is er geen draaiend pedaal maar draaien de voeten gewoon op de grond om zo wand knoppen te activeren. 
+
+![Foto](/img/RES13.png)
+
+In de achteraf gestelde vragen die de prototypes vergeleek. Was duidelijk dat beide principes potentieel hadden en beter scoorden dan de andere op verschillende vlakken. Door deze samen te voegen was het mogelijk om nieuwe conclusies te vormen over de prototypes. 
+- Constrainen is de effectiefst waargenomen methode van behavioral design.
+- Bij informatie architectuur moet opgelet worden dat wanneer je zaken wilt onderscheiden, je ze nog steeds onderdeel laat uitmaken van eenzelfde groot geheel, zodat
+  waargenomen connectie tussen de twee, nodig bij gebruik, niet verloren gaat. 
+- Indrukken van pedalen in verticale richting is intuïtiever dan indrukken in horizontale richting.
+- Beide prototype varianten zijn in huidige staat niet combineerbaar met piano pedalen.
+- Een horizontaal schuifcontactvlak in de lucht is niet comfortabel bij gebruik, voorkeur gaat naar schuin contact.
+- Nieuw theoretisch model (Figuur 17) vertoont voldoende potentieel om mee verder te werken in het proces.
+- Constrainen kan ook nadelen hebben in specifieke situaties, waarmee rekening moet gehouden worden.
+
+---
+## Mental card sorting - resultaten
+
+![Foto](/img/RES14.png)
+
+Conclusies:  
+- Pauzeren, hervatten en terugspoelen wordt gezien als absoluut noodzakelijk gecategoriseerd, wat betekent dat deze sowieso moeten blijven.
+- Geen enkele functie werd als niet zinvol gecategoriseerd. Volgens deze 3 personen zijn dus geen redundante, weglaatbare functies aanwezig.
+- Sneller en trager functies (zeker trager) zijn interessant om verder op in te gaan. Om gebruikersfundamentalisme tegen te gaan, zullen hier pas definitieve conclusies rond
+  genomen worden na deze als toegevoegde functies te laten categoriseren bij de volgende test.
+  Switching wordt als algemeen zinvol, maar minst noodzakelijk uit de selectie beschreven. Wat betekend dat het interessanter is om in de app een mogelijkheid te bieden om
+  één van de twee te selecteren. 
+
+---
+## Design requirements
