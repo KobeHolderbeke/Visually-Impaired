@@ -228,9 +228,8 @@ In de achteraf gestelde vragen die de prototypes vergeleek. Was duidelijk dat be
 Conclusies:  
 - Pauzeren, hervatten en terugspoelen wordt gezien als absoluut noodzakelijk gecategoriseerd, wat betekent dat deze sowieso moeten blijven.
 - Geen enkele functie werd als niet zinvol gecategoriseerd. Volgens deze 3 personen zijn dus geen redundante, weglaatbare functies aanwezig.
-- Sneller en trager functies (zeker trager) zijn interessant om verder op in te gaan. Om gebruikersfundamentalisme tegen te gaan, zullen hier pas definitieve conclusies rond
-  genomen worden na deze als toegevoegde functies te laten categoriseren bij de volgende test.
-  Switching wordt als algemeen zinvol, maar minst noodzakelijk uit de selectie beschreven. Wat betekend dat het interessanter is om in de app een mogelijkheid te bieden om
+- Sneller en trager functies werden in een eerste test voorgesteld. Deze functies werden ook positief ontvangen en met hoge noodzaak gecategoriseerd in de tweede test, wat betekent dat hiermee verder gegaan wordt.
+- Switching wordt als algemeen zinvol, maar minst noodzakelijk uit de selectie beschreven. Dit betekent dat het interessanter is om in de app een mogelijkheid te bieden om
   één van de twee te selecteren. 
 
 ---
