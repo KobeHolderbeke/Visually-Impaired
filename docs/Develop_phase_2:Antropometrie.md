@@ -63,45 +63,67 @@ Ook volgende gegevens worden gebruikt (geëxtrapoleerd uit Figuur 5):
 ##### Ballengte
 
 _Mannen_
+
 P99=182,6+2,3263*6,9=198,7mm
+
 _Vrouwen_
+
 P1=171,8-2,3263*8,0=153,2mm
+
 ---
 ##### Balbreedte
 
 _Mannen_
+
 P99=96,9+2,3263*5,8=110,4mm
+
 _Vrouwen_
+
 P1=93,5-2,3263*6,2=79,1mm
+
 ---
 ##### Voetlengte
 
 _Mannen_
+
 P99=246,1+2,3263*8,2=265,2mm
+
 _Vrouwen_
+
 P1=243,3-2,3263*10,1=219,8mm
+
 ---
 ##### Voetbreedte
 
 _Mannen_
+
 P99=93,8+2,3263*5,9=107,5mm
+
 _Vrouwen_
+
 P1=90,7-2,3263*6,1=76,5mm
+
 
 Deze gegevens zijn verzameld in Tabel 2:
 
 De verhouding van de ballengte t.o.v. de voetlengte wordt bepaald voor zowel mannen als vrouwen, waarna deze fractie vermenigvuldigd worden met de Belgische voetlengte gegevens (Tabel 1), om zo een schatting te maken van de waarden van ballengtes voor mannen en vrouwen uit België:
 
 _Mannen_
+
 (198,7/265,2)*289=216,5mm
+
 _Vrouwen_
+
 (153,2/219,8)*157=109,4mm
 
 Uit de balbreedte en voetbreedte kan de cosinus van de hoek tussen D4 en D5 (Figuur 3) en zo ook de hoek zelf bepaald worden, welke door combinatie met Belgische voetbreedte gegevens uit DINBelg gebruikt kunnen worden om de verticale afstand tussen de twee extrema van voetbreedtepunten in België te schatten. Ook dit gebeurt voor zowel mannen als vrouwen:
 
 _Mannen_
+
 sin⁡(cos^(-1)⁡〖107,5/110,4〗 )*114=25,8mm
+
 _Vrouwen_
+
 sin⁡(cos^(-1)⁡〖76,5/79,1〗 )*60=15,2mm
 
 Alle relevante Belgische gegevens en schattingen worden verzameld in Tabel 3:
@@ -113,6 +135,7 @@ Alle relevante Belgische gegevens en schattingen worden verzameld in Tabel 3:
 De vermenging van vrouwelijke kindergegevens met volwassen gegevens leidt tot een zekere graad van onnauwkeurigheid. Deze berekening is een schatting. Ook deze tussen volwassen mannen is minder betrouwbaar dan werkelijke antropometrische metingen.
 
 Om deze onnauwkeurigheden op te vangen wordt genoeg marge genomen bij de dimensies van het uit te werken concept.
+
 ---
 ### Data analyse
 
