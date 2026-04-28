@@ -36,6 +36,7 @@ Volgende afmetingen zijn nog nodig (zie Figuur 3):
 -	Voetbreedte – ter referentie (Foot width, FW)
 
 Deze gegevens worden verzameld uit een onderzoeksartikel, door Zhang et al.
+
 ---
 #### Berekeningen
 
