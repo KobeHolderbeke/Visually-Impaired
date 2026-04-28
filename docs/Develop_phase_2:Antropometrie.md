@@ -5,6 +5,7 @@
 Het doel van dit onderzoek is om de dimensies van het bakje van een nieuwe prototype iteratie (Figuur 1) te definiëren. Het prototype moet voor beide voeten twee knoppen bieden, die indrukbaar zijn door de linkse en rechtse uiterste punten van de voet. Een visuele weergave van dit concept, alsook de te bepalen afmetingen, zijn weergegeven in Figuur 2. Deze onbekende dimensies worden bepaald doormiddel van een antropometrische analyse, gebruikmakend van bestaande betrouwbare antropometrische gegevens.
 
 ![](/img/antro1/1.png)
+![](/img/antro1/2.png)
 
 ---
 ### 2 Motivatie
@@ -37,6 +38,8 @@ Volgende afmetingen zijn nog nodig (zie Figuur 3):
 -	Voetlengte – ter referentie (Foot length, FL)
 -	Voetbreedte – ter referentie (Foot width, FW)
 
+![](/img/antro1/3.png)
+
 Deze gegevens worden verzameld uit een onderzoeksartikel, door Zhang et al.
 
 ---
@@ -51,6 +54,8 @@ Van elk van de dimensies wordt het gemiddelde en de standaarddeviatie gegeven, e
 
 Voor deze toepassing is HWB de beste metriek, aangezien voor besturing de voet op de ondergrond wordt gedrukt in zekere mate, maar wel al zittend, dus niet met het volledige gewicht.
 
+![](/img/antro1/4.png)
+
 Volgende formule wordt voor de hierop volgende berekeningen gebruikt:
 X_P=μ+Z_P*σ
 XP: waarde van variabele bij percentiel P
@@ -61,6 +66,9 @@ ZP: Z-score voor percentiel P
 Ook volgende gegevens worden gebruikt (geëxtrapoleerd uit Figuur 5):
 -	Z-score voor P1 = -2,3263
 -	Z-score voor P99 = +2,3263
+
+![](/img/antro1/5.png)
+  
 ---
 ##### 3.1.1 Ballengte
 
@@ -152,6 +160,10 @@ Deze contactpunten zijn de extrema langs beide kanten, dus vormen ook de theoret
 
 De grafische combinatie van gegevens uit Tabel 3 worden gevisualiseerd in Figuur 6. De bekomen contactrange als gevolg, wordt gevisualiseerd in Figuur 7:
 
+![](/img/antro1/6.png)
+
+![](/img/antro1/7.png)
+
 ---
 #### 4.2 Marge toevoeging aan contactranges
 
@@ -183,6 +195,8 @@ Alle gezochte maten van dit onderzoek zijn bepaald, welke tot een eerste volledi
 
 Dit wordt afgebeeld in Figuur 8:
 
+![](/img/antro1/8.png)
+
 **Opmerking**
 
 Dit is slechts een veralgemeende voorstelling. Zaken als bedrading, behuizing voor elektronica, etc., worden beïnvloed door onder andere technische specificaties en vallen buiten de scope van dit onderzoek.
@@ -196,6 +210,8 @@ Door de keuze van “design for the tall” als designstrategie, is het bakje ze
 De knoppen gaan alsmaar verder weg staan des te kleiner de voet wordt en dit betekent dat kleinere voeten meer afstand zullen moeten afleggen om de knoppen te kunnen bereiken, zijnde dit rotatie (draaien), translatie (horizontaal schuiven) of een combinatie van beide.
 
 Hoe dit is bij de kleinste voet, wordt met voorbeeld zuivere rotatie weergegeven in Figuur 9:
+
+![](/img/antro1/9.png)
 
 Aangezien de Comfort Analysis uit CAD Siemens NX (“Human Body” tool, antropometrie) voetrotatie niet registreert als invloedfactor op comfort, kan deze tool niet gebruikt worden om al snel een eerste idee van de impact op comfort te scheppen.
 
@@ -258,6 +274,8 @@ Anderzijds kan geopteerd worden voor een doorbreekweerstand: bij een te lage kra
 
 Een vergelijking van deze twee principes wordt geïllustreerd in Figuur 10:
 
+![](/img/antro1/10.png)
+
 De voordelen en nadelen voor elk van deze opties liggen veel genuanceerder dan bij de bakjesverbreding, aangezien het hier bijvoorbeeld onder andere gaat over indrukcomfort en indruksensatie. Welke voor minder mis-inputs zal zorgen valt reëel gezien ook niet theoretisch te bepalen.
 
 Om te kunnen beslissen welke van de twee een betere optie zou zijn, zouden beide opties moeten getest worden, met een prototype met functionerende contacten zodat de hoeveelheid mis-inputs kwantitatief kunnen gemeten vergeleken worden en via gelaatsanalyse en een QAP kan bepaald worden welke comfortabeler/aangenamer is.
@@ -279,6 +297,8 @@ Als de nodige uitwijking voor kleinere voeten bij het huidige concept al als (bi
 Het verruimen van de groep van mensen waarvoor het product bruikbaar is, is een van de hoofddoelen als ontwerper en dus positief. Er moet echter ook rekening gehouden worden met de “law of diminishing returns” (Figuur 11). 
 
 Het principe van “diminishing returns” of afnemende meeropbrengsten kan worden omschreven als “de afname van de marginale output van een productieproces wanneer de hoeveelheid van één productiefactor wordt verhoogd, terwijl andere factoren constant blijven” (eigen vertaling van Wikipedia, z.d.).
+
+![](/img/antro1/11.png)
 
 Dit betekent dat de verruiming van doelgroep goed meegenomen zou zijn, maar het niet-verbreed concept in principe al voor een groot deel van de voetmaten bruikbaar is, dus dit voordeel zelf geen determinerende factor is voor een ontwerpkeuze, tenzij alle andere factoren onderling gelijk zouden zijn.
 
