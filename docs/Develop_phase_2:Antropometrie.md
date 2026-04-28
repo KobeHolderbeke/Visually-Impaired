@@ -43,6 +43,7 @@ Volgende afmetingen zijn nog nodig (zie Figuur 3):
 -	Voetbreedte – ter referentie (Foot width, FW)
 
 ![](/img/antro1/3.png)
+
 *Figuur 3: Overzicht antropometrische gegevens van voetdimensies*
 
 Deze gegevens worden verzameld uit een onderzoeksartikel, door Zhang et al.
