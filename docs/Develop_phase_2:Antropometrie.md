@@ -5,7 +5,9 @@
 Het doel van dit onderzoek is om de dimensies van het bakje van een nieuwe prototype iteratie (Figuur 1) te definiëren. Het prototype moet voor beide voeten twee knoppen bieden, die indrukbaar zijn door de linkse en rechtse uiterste punten van de voet. Een visuele weergave van dit concept, alsook de te bepalen afmetingen, zijn weergegeven in Figuur 2. Deze onbekende dimensies worden bepaald doormiddel van een antropometrische analyse, gebruikmakend van bestaande betrouwbare antropometrische gegevens.
 
 ![](/img/antro1/1.png)
+*Figuur 1: Theoretisch model waarvan de afmetingen in dit onderzoek gedefinieerd worden*
 ![](/img/antro1/2.png)
+*Figuur 2: Weergave algemeen concept, gekende dimensies en te bepalen dimensies van theoretisch model*
 
 ---
 ### 2 Motivatie
@@ -23,6 +25,8 @@ Om de dimensies van de kleinste reële voeten te bepalen, worden de beschikbare 
 
 DINBelg biedt enkel voetlengte en voetbreedte als bruikbare gegevens. Deze zijn verzameld in Tabel 1:
 
+*Tabel 1: Antropometrische gegevens van voetdimensies uit DINBelg*
+
 | Populatiebeschrijving | Voetlengte (mm) | Voetbreedte (mm) |
 |----------------------|-----------------|------------------|
 | Mannen, 18-65, P99  | 289             | 114              |
@@ -39,6 +43,7 @@ Volgende afmetingen zijn nog nodig (zie Figuur 3):
 -	Voetbreedte – ter referentie (Foot width, FW)
 
 ![](/img/antro1/3.png)
+*Figuur 3: Overzicht antropometrische gegevens van voetdimensies*
 
 Deze gegevens worden verzameld uit een onderzoeksartikel, door Zhang et al.
 
@@ -55,6 +60,7 @@ Van elk van de dimensies wordt het gemiddelde en de standaarddeviatie gegeven, e
 Voor deze toepassing is HWB de beste metriek, aangezien voor besturing de voet op de ondergrond wordt gedrukt in zekere mate, maar wel al zittend, dus niet met het volledige gewicht.
 
 ![](/img/antro1/4.png)
+*Figuur 4: Antropometrische voetafmetingen bij verschillende belastingscondities, uit studie van Zhang et al. (2022)*
 
 Volgende formule wordt voor de hierop volgende berekeningen gebruikt:
 X_P=μ+Z_P*σ
@@ -68,6 +74,7 @@ Ook volgende gegevens worden gebruikt (geëxtrapoleerd uit Figuur 5):
 -	Z-score voor P99 = +2,3263
 
 ![](/img/antro1/5.png)
+*Figuur 5: Z-score - percentieltabel voor normale distributie, uit Mathblog.com*
   
 ---
 ##### 3.1.1 Ballengte
@@ -116,6 +123,8 @@ P1=90,7-2,3263*6,1=76,5mm
 
 Deze gegevens zijn verzameld in Tabel 2:
 
+*Tabel 2: Relevante percentielen uit antropometrische gegevens van Figuur 4*
+
 | Populatiebeschrijving                          | Ballengte (mm) | Balbreedte (mm) | Voetlengte (mm) | Voetbreedte (mm) |
 |------------------------------------------------|----------------|-----------------|-----------------|------------------|
 | *Mannen, 66 ± 4 (60–72) jaar, P99*             | 198,7          | 110,4           | 265,2           | 107,5            |
@@ -142,6 +151,8 @@ _Vrouwen_
 sin⁡(cos^(-1)⁡〖76,5/79,1〗 )*60=15,2mm
 
 Alle relevante Belgische gegevens en schattingen worden verzameld in Tabel 3:
+
+*Tabel 3: Belgische antropometrische gegevens en schattingen voor voetafmetingen, relevant voor dimensiebepaling binnen het concept*
 
 | Populatiebeschrijving      | Ballengte (mm) | Verticale afstand tussen maximale breedtepunten v/d voet (mm) | Voetlengte (mm) | Voetbreedte (mm) |
 |----------------------------|----------------|----------------------------------------------------------------|-----------------|------------------|
@@ -171,8 +182,9 @@ Deze contactpunten zijn de extrema langs beide kanten, dus vormen ook de theoret
 De grafische combinatie van gegevens uit Tabel 3 worden gevisualiseerd in Figuur 6. De bekomen contactrange als gevolg, wordt gevisualiseerd in Figuur 7:
 
 ![](/img/antro1/6.png)
-
+*Figuur 6: Grafische voorstelling van antropometrische gegevens van voetafmetingen, uit Tabel 3*
 ![](/img/antro1/7.png)
+*Figuur 7: Contact-/Inputranges bekomen uit antropometrische gegevens van voetafmetingen uit Tabel 3*
 
 ---
 #### 4.2 Marge toevoeging aan contactranges
@@ -206,6 +218,7 @@ Alle gezochte maten van dit onderzoek zijn bepaald, welke tot een eerste volledi
 Dit wordt afgebeeld in Figuur 8:
 
 ![](/img/antro1/8.png)
+*Figuur 8: Voorlopig finaal gedimensioneerd concept*
 
 **Opmerking**
 
@@ -222,6 +235,7 @@ De knoppen gaan alsmaar verder weg staan des te kleiner de voet wordt en dit bet
 Hoe dit is bij de kleinste voet, wordt met voorbeeld zuivere rotatie weergegeven in Figuur 9:
 
 ![](/img/antro1/9.png)
+*Figuur 9: Nodige rotatie van kleinste voet waarvoor ontworpen wordt, om de linker- en rechterknop te bereiken*
 
 Aangezien de Comfort Analysis uit CAD Siemens NX (“Human Body” tool, antropometrie) voetrotatie niet registreert als invloedfactor op comfort, kan deze tool niet gebruikt worden om al snel een eerste idee van de impact op comfort te scheppen.
 
@@ -285,6 +299,7 @@ Anderzijds kan geopteerd worden voor een doorbreekweerstand: bij een te lage kra
 Een vergelijking van deze twee principes wordt geïllustreerd in Figuur 10:
 
 ![](/img/antro1/10.png)
+*Figuur 10: Illustratie van de twee werkingsopties voor de knoppen in functie van weerstandstoevoeging*
 
 De voordelen en nadelen voor elk van deze opties liggen veel genuanceerder dan bij de bakjesverbreding, aangezien het hier bijvoorbeeld onder andere gaat over indrukcomfort en indruksensatie. Welke voor minder mis-inputs zal zorgen valt reëel gezien ook niet theoretisch te bepalen.
 
@@ -309,6 +324,7 @@ Het verruimen van de groep van mensen waarvoor het product bruikbaar is, is een 
 Het principe van “diminishing returns” of afnemende meeropbrengsten kan worden omschreven als “de afname van de marginale output van een productieproces wanneer de hoeveelheid van één productiefactor wordt verhoogd, terwijl andere factoren constant blijven” (eigen vertaling van Wikipedia, z.d.).
 
 ![](/img/antro1/11.png)
+*Figuur 11: Verloop van afnemende meeropbrengsten*
 
 Dit betekent dat de verruiming van doelgroep goed meegenomen zou zijn, maar het niet-verbreed concept in principe al voor een groot deel van de voetmaten bruikbaar is, dus dit voordeel zelf geen determinerende factor is voor een ontwerpkeuze, tenzij alle andere factoren onderling gelijk zouden zijn.
 
