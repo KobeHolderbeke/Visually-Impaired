@@ -116,6 +116,11 @@ P1=90,7-2,3263*6,1=76,5mm
 
 Deze gegevens zijn verzameld in Tabel 2:
 
+| Populatiebeschrijving                          | Ballengte (mm) | Balbreedte (mm) | Voetlengte (mm) | Voetbreedte (mm) |
+|------------------------------------------------|----------------|-----------------|-----------------|------------------|
+| *Mannen, 66 ± 4 (60–72) jaar, P99*             | 198,7          | 110,4           | 265,2           | 107,5            |
+| *Vrouwen, 64 ± 5 (56–75) jaar, P1*             | 153,2          | 79,1            | 219,8           | 76,5             |
+
 De verhouding van de ballengte t.o.v. de voetlengte wordt bepaald voor zowel mannen als vrouwen, waarna deze fractie vermenigvuldigd worden met de Belgische voetlengte gegevens (Tabel 1), om zo een schatting te maken van de waarden van ballengtes voor mannen en vrouwen uit België:
 
 _Mannen_
@@ -137,6 +142,11 @@ _Vrouwen_
 sin⁡(cos^(-1)⁡〖76,5/79,1〗 )*60=15,2mm
 
 Alle relevante Belgische gegevens en schattingen worden verzameld in Tabel 3:
+
+| Populatiebeschrijving      | Ballengte (mm) | Verticale afstand tussen maximale breedtepunten v/d voet (mm) | Voetlengte (mm) | Voetbreedte (mm) |
+|----------------------------|----------------|----------------------------------------------------------------|-----------------|------------------|
+| *Mannen, 18-65, P99*       | 216,5*         | 25,8*                                                         | 289             | 114              |
+| *Meisjes, 6, P1*           | 109,4*         | 15,2*                                                         | 157             | 60               |
 
 *(Schattingen van waarden, niet werkelijk gemeten)*
 
