@@ -4,7 +4,7 @@
 
 Het doel van dit onderzoek is om de dimensies van het bakje van een nieuwe prototype iteratie (Figuur 1) te definiëren. Het prototype moet voor beide voeten twee knoppen bieden, die indrukbaar zijn door de linkse en rechtse uiterste punten van de voet. Een visuele weergave van dit concept, alsook de te bepalen afmetingen, zijn weergegeven in Figuur 2. Deze onbekende dimensies worden bepaald doormiddel van een antropometrische analyse, gebruikmakend van bestaande betrouwbare antropometrische gegevens.
 
-![](/img/antro1/1)
+![](/img/antro1/1.png)
 
 ---
 ### 2 Motivatie
