@@ -1,16 +1,16 @@
 # Develop 2 – Antropometrische Studie
 ## Deel I: Analyse van Voetafmetingen – Dimensionering van Bakje
-### Onderzoeksdoel
+### 1 Onderzoeksdoel
 
 Het doel van dit onderzoek is om de dimensies van het bakje van een nieuwe prototype iteratie (Figuur 1) te definiëren. Het prototype moet voor beide voeten twee knoppen bieden, die indrukbaar zijn door de linkse en rechtse uiterste punten van de voet. Een visuele weergave van dit concept, alsook de te bepalen afmetingen, zijn weergegeven in Figuur 2. Deze onbekende dimensies worden bepaald doormiddel van een antropometrische analyse, gebruikmakend van bestaande betrouwbare antropometrische gegevens.
 
 ---
-### Motivatie
+### 2 Motivatie
 
 Voor deze toepassing wordt een antropometrische analyse als noodzakelijk beschouwd, enerzijds omwille van het feit dat het onderzoeksproces zich in de tweede deelfase van de ontwikkelingsfase bevindt, waardoor van “quick and dirty” prototyping meer overgegaan moet worden tot iets degelijkere, beter uitgewerkte ontwerpiteraties. Anderzijds omwille van het feit dat de positie van deze twee knoppen en de nodige grootte ervan om door (bijna) alle voeten bruikbaar te kunnen zijn, zeer moeilijk intuïtief te bepalen is. Deze data is ook nog verder in het proces bruikbaar, in het geval dat niet met dit concept verdergegaan wordt.
 
 ---
-### Data
+### 3 Data
 
 Als belangrijkste bron aan antropometrische gegevens wordt DINBelg gebruikt. 
 
@@ -38,7 +38,7 @@ Volgende afmetingen zijn nog nodig (zie Figuur 3):
 Deze gegevens worden verzameld uit een onderzoeksartikel, door Zhang et al.
 
 ---
-#### Berekeningen
+#### 3.1 Berekeningen
 
 In Figuur 4 staan alle antropometrische metingen uit de gekozen bron.
 
@@ -60,7 +60,7 @@ Ook volgende gegevens worden gebruikt (geëxtrapoleerd uit Figuur 5):
 -	Z-score voor P1 = -2,3263
 -	Z-score voor P99 = +2,3263
 ---
-##### Ballengte
+##### 3.1.1 Ballengte
 
 _Mannen_
 
@@ -71,7 +71,7 @@ _Vrouwen_
 P1=171,8-2,3263*8,0=153,2mm
 
 ---
-##### Balbreedte
+##### 3.1.2 Balbreedte
 
 _Mannen_
 
@@ -82,7 +82,7 @@ _Vrouwen_
 P1=93,5-2,3263*6,2=79,1mm
 
 ---
-##### Voetlengte
+##### 3.1.3 Voetlengte
 
 _Mannen_
 
@@ -93,7 +93,7 @@ _Vrouwen_
 P1=243,3-2,3263*10,1=219,8mm
 
 ---
-##### Voetbreedte
+##### 3.1.4 Voetbreedte
 
 _Mannen_
 
@@ -137,12 +137,12 @@ De vermenging van vrouwelijke kindergegevens met volwassen gegevens leidt tot ee
 Om deze onnauwkeurigheden op te vangen wordt genoeg marge genomen bij de dimensies van het uit te werken concept.
 
 ---
-### Data analyse
+### 4 Data analyse
 
 Het is de bedoeling dat de voet tot helemaal achteraan in het bakje geplaatst wordt bij gebruik (zie Figuur 2), dus voor de dimensiebepaling wordt van bovenuit gerekend. Ook zoals te zien in Figuur 2 (blauw aangeduid) en zoals als nodig gevonden bij de berekeningen (zie 4.1.: Opmerking), zal op de aangeduide plaatsen een zekere extra uitsparing voorzien worden.
 
 ---
-#### Minimale en maximale maten, zonder toegevoegde marges
+#### 4.1 Minimale en maximale maten, zonder toegevoegde marges
 
 Met behulp van de waarden uit Tabel 3, kunnen binnenin het theoretische bakje al de aanrakingspunten aangeduid worden van de maximale breedtepunten van de voet, van zowel de grootste mannelijke voet, als de kleinste vrouwelijke voet. Deze zijn de punten op de voet die contact moeten maken met de drukknoppen (zie Figuur 2). 
 
@@ -151,7 +151,7 @@ Deze contactpunten zijn de extrema langs beide kanten, dus vormen ook de theoret
 De grafische combinatie van gegevens uit Tabel 3 worden gevisualiseerd in Figuur 6. De bekomen contactrange als gevolg, wordt gevisualiseerd in Figuur 7:
 
 ---
-#### Marge toevoeging aan contactranges
+#### 4.2 Marge toevoeging aan contactranges
 
 Aangezien er voor deze schattingen geen manier is om de “mate van onnauwkeurigheid” eenduidig te bepalen, wordt voor elke range een arbitraire, grotere maat gekozen.
 
@@ -159,7 +159,7 @@ Beide maten worden met ~5mm vergroot:
 -	24,9mm -> 30mm
 -	35,5mm -> 40mm
 ---
-#### Hoogtebepaling
+#### 4.3 Hoogtebepaling
 
 Aangezien de maximale breedtepunten van de voet tot zeer laag richting de voetzool lopen met een quasi constante uitwijking, is de hoogte waarop het contact (knop) ligt een factor die vrij te kiezen is, grotendeels onafhankelijk van antropometrie. Hierbij wordt dan rekening gehouden met volgende factoren
 
@@ -175,7 +175,7 @@ Aangezien de maximale breedtepunten van de voet tot zeer laag richting de voetzo
 Rekening houdend met deze factoren, wordt voorlopig voor een wandhoogte van 3cm gekozen, met knoppen die 2cm hoog zijn, startend vanaf de basis.
 
 ---
-#### Dimensionering van concept
+#### 4.4 Dimensionering van concept
 
 Alle gezochte maten van dit onderzoek zijn bepaald, welke tot een eerste volledig gedimensioneerd concept leiden.
 
@@ -186,8 +186,8 @@ Dit wordt afgebeeld in Figuur 8:
 Dit is slechts een veralgemeende voorstelling. Zaken als bedrading, behuizing voor elektronica, etc., worden beïnvloed door onder andere technische specificaties en vallen buiten de scope van dit onderzoek.
 
 ---
-#### Analyse van dimensionering
-##### Edge case - "MIN"
+#### 4.5Analyse van dimensionering
+##### 4.5.1 Edge case - "MIN"
 
 Door de keuze van “design for the tall” als designstrategie, is het bakje zeer groot in verhouding tot de kleinste voeten waarvoor ontworpen wordt.
 
@@ -201,7 +201,7 @@ Als gevolg zal voor het bepalen van comfort bij voetrotatie meteen moeten overge
 
 De proefpersonen hoeven noch slechtziend, noch muzikaal opgeleid te zijn om te kwalificeren voor deze test.
 ---
-##### Edge case - "MAX"
+##### 4.5.2 Edge case - "MAX"
 
 Anderzijds, is het bakje vrij nauw voor de grootste voeten waarvoor ontworpen wordt (zie Figuur 8). 
 
@@ -212,7 +212,7 @@ Om dit te vermijden zijn er 3 opties:
 2.	Grote weerstand aanbrengen op de knopjes
 3.	Andere vorm van input
 ---
-###### Uitwerkingsvorm - bredere bakjes
+###### 4.5.2.1 Uitwerkingsvorm - bredere bakjes
 
 De eenvoudigste uitwerking van deze ontwerpoptie is simpelweg de bakjes breder maken in hun vaste dimensionering.
 
@@ -246,7 +246,7 @@ De voor- en nadelen voor beide opties worden hieronder opgelijst.
   *	Extra mechanisme betekent extra kost
 “Goed design is zo weinig mogelijk design” (eigen vertaling van Rams, z.d.).
 ---
-###### Uitwerkingsvormen - Grotere knopweerstand
+###### 4.5.2.2 Uitwerkingsvormen - Grotere knopweerstand
 
 Hierin zijn twee mogelijke weerstandsprincipes te onderscheiden. 
 
@@ -261,12 +261,12 @@ De voordelen en nadelen voor elk van deze opties liggen veel genuanceerder dan b
 Om te kunnen beslissen welke van de twee een betere optie zou zijn, zouden beide opties moeten getest worden, met een prototype met functionerende contacten zodat de hoeveelheid mis-inputs kwantitatief kunnen gemeten vergeleken worden en via gelaatsanalyse en een QAP kan bepaald worden welke comfortabeler/aangenamer is.
 
 ---
-###### Uitwerkingsvormen - andere vorm van input
+###### 4.4.2.3 Uitwerkingsvormen - andere vorm van input
 
 Dit is de worstcasescenario optie, in het geval beide opties geen aanvaardbaar resultaat leveren. Dit vergt dan ook zijn eigen onderzoek en valt buiten de scope van dit onderzoek.
 
 ---
-###### Vergelijking van uitwerkingsvormen
+###### 4.5.2.4 Vergelijking van uitwerkingsvormen
 
 Een van de voordelen die de bakjesverbreding heeft t.o.v. de knopweerstand is dat het de doelgroep verruimt.
 
@@ -289,17 +289,17 @@ Deze optie verhoogt echter wel de complexiteit van het product.
 De voordelen die de knopweerstand dan heeft zijn dat dit een zeer eenvoudig uit te voeren verandering is tegenover instelbaarheid, het geen compactheid afneemt en het (ongewenst) effect van de nodige uitwijking bij kleine voeten (5.5.1.) niet versterkt zoals wel bij de vaste verbreding.
 
 ---
-### Conclusies
+### 5 Conclusies
 
 Een voorlopige dimensionering die voeten zou moeten kunnen dienen van meisjes, 6 jaar, P1 tot mannen, 18-65 jaar, P99 is vastgesteld (Figuur 8).
 
 Beide edge cases (minimum- en maximum voetgrootte, resp. 5.5.1. & 5.5.2.) brengen elk (mogelijke) problemen met zich mee, van welke zowel de mate waarin ze een probleem vormen alsook de mogelijke oplossingen moeten onderzocht worden in volgende tests:
 
-#### Comfort van voetuitwijking - indrukken van knoppen in bakjes
+#### 5.1 Comfort van voetuitwijking - indrukken van knoppen in bakjes
 
 Een 1:1 geschaald (niet noodzakelijk functioneel) prototype van het huidig concept (Figuur 8) wordt met een variatie van voetgroottes getest op eenvoud van indrukking van knoppen. 
 
-#### Uitwerkingsdefinitie van bakjes - verbreding en knopweerstand
+#### 5.2 Uitwerkingsdefinitie van bakjes - verbreding en knopweerstand
 
 Een 1:1 geschaald prototype met knoppen die feedback geven (bv. buzzer) wordt voorzien van instelbaarheid in verbreding, alsook knoppen met weinig weerstand, algemene/constante middelgrote indrukweerstand over afstand en een grote doorbreekweerstand. Deze worden elk apart getest en beoordeeld op hoeveelheid misinputs, comfort van gebruik en bruikbaarheid.
 
@@ -311,8 +311,8 @@ Het bepalen van de mate waarin de grote uitwijking van kleine voeten een problee
 Een tweede studie: Deel II: Analyse van Heup- en Beenafmetingen – Plaatsing van Bakjes, zal moeten uitgevoerd worden om te bepalen hoe ver de twee bakjes uit elkaar moeten staan, of instelbaarheid nodig is en in welke mate, etc., vooraleer de hiervoor vernoemde tests uitgevoerd kunnen worden.
 
 ---
-### Literatuurlijst
-#### Internetpagina's
+### 6 Literatuurlijst
+#### 6.1 Internetpagina's
 
 DINBelg. (2005). DINBelg. https://www.dinbelg.be 
 
@@ -324,13 +324,13 @@ Wikipedia. (z.d.). Diminishing returns. Geraadpleegd op 22 maart 2026, van https
 
 Heurio. (z.d.). Dieter Rams: 10 principles of good design. Geraadpleegd op 22 maart 2026, van https://www.heurio.co/dieter-rams-10-principles-of-good-design 
 
-#### Boeken
+#### 6.2 Boeken
 
 Molenbroek, J., & de Bruin, R. (2005). Enhancing
 the use of anthropometric data. Human Factors
 in Design, Safety, and Management, 289-297.
 
-#### Generatieve AI
+#### 6.3 Generatieve AI
 
 Generatieve AI (ChatGPT, OpenAI) is gebruikt ter ondersteuning bij het toepassen van APA-richtlijnen, waaronder het correct formatteren van bronvermeldingen en het verwijzen naar figuren en citaten. De output is gecontroleerd en waar nodig aangepast door de auteur.
 
