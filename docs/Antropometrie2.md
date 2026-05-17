@@ -226,13 +226,13 @@ Beide opties worden geanalyseerd op hun eigen voor- en nadelen:
 ###### 4.3.1.2 Muren verschuiven
 
 -	Voordelen
-  - Instelbare breedte van bakjes
+  * Instelbare breedte van bakjes
 -	Nadelen
-  - Meer cognitieve belasting en tijdsinname dan muurverschuiving, want meer te verschuiven
+  * Meer cognitieve belasting en tijdsinname dan muurverschuiving, want meer te verschuiven
     onderdelen
-  - Wordt beschouwd als minder intuïtief
-  - Complexer
-  - 
+  * Wordt beschouwd als minder intuïtief
+  * Complexer
+    
 Hier is 1 aspect zeer interessant: muurinstelling biedt de mogelijkheid om niet enkel de positie van voetplaatsing in te stellen, maar ook de breedte van de bakjes. Dit gaat dan wel ten koste van extra complexiteit en mogelijks een minder intuïtief geheel.
 
 Dit is interessant, omdat in Deel I: Analyse van Voetafmetingen – Dimensionering van Bakje het grote verschil in voetgroottes binnen de groep leidt tot een zeer groot bakje voor relatief kleine voeten, bij een deel van de groep. Er is echter momenteel nog geen test uitgevoerd om te bepalen of dit effectief een probleem is of niet.
