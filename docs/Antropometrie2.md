@@ -225,13 +225,13 @@ Beide opties worden geanalyseerd op hun eigen voor- en nadelen:
 ---
 ###### 4.3.1.2 Muren verschuiven
 
--	Voordelen
-  * Instelbare breedte van bakjes
--	Nadelen
-  * Meer cognitieve belasting en tijdsinname dan muurverschuiving, want meer te verschuiven
-    onderdelen
-  * Wordt beschouwd als minder intuïtief
-  * Complexer
+-	**Voordelen**
+    * Instelbare breedte van bakjes
+-	**Nadelen**
+    * Meer cognitieve belasting en tijdsinname dan muurverschuiving, want meer te verschuive,
+      onderdelen
+    * Wordt beschouwd als minder intuïtief
+    * Complexer
     
 Hier is 1 aspect zeer interessant: muurinstelling biedt de mogelijkheid om niet enkel de positie van voetplaatsing in te stellen, maar ook de breedte van de bakjes. Dit gaat dan wel ten koste van extra complexiteit en mogelijks een minder intuïtief geheel.
 
