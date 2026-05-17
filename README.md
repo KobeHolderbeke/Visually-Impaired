@@ -66,7 +66,7 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 3. [Defintion](./docs/definition.md)
 4. [Develop phase 1](./docs/Develop_1.md)
 5. [Develop phase 2: Antropometrische analyse deel 1](./docs/Develop_phase_2:Antropometrie.md)
-6. [Develop phase 2: Antropometrische analyse deel 2](./docs/Antropometrie2)
+6. [Develop phase 2: Antropometrische analyse deel 2](./docs/Antropometrie2.md)
 7. [Design Requirements](./docs/design_requirements.md)
 8. [Bill of materials](./docs/bom.md)
 
