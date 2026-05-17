@@ -215,12 +215,12 @@ Beide opties worden geanalyseerd op hun eigen voor- en nadelen:
 ###### 4.3.1.1 Bakjes Verschuiven
 
 -	**Voordelen**
-  - Minder cognitieve belasting en tijdsinname dan muurverschuiving, want minder te verschuiven
-    onderdelen
-  - Wordt beschouwd als een intuïtievere optie
-  -  Minder complex
+    * Minder cognitieve belasting en tijdsinname dan muurverschuiving, want minder te
+      verschuiven onderdelen
+    * Wordt beschouwd als een intuïtievere optie
+    *  Minder complex
 -	**Nadelen**
-  - Vaste breedte van bakjes
+    * Vaste breedte van bakjes
 
 ---
 ###### 4.3.1.2 Muren verschuiven
