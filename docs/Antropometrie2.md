@@ -242,12 +242,12 @@ Een algemene zijwaartse denkroute toepasbaar op beide opties, is de vraag hoevee
 Hier zijn ook twee mogelijkheden:
 
 -	Alles verschuifbaar maken
-  -	Bakjesverschuiving: 2 verschuifbare onderdelen
-  -	Muurverschuiving: 4 verschuifbare onderdelen
+    *	Bakjesverschuiving: 2 verschuifbare onderdelen
+    *	Muurverschuiving: 4 verschuifbare onderdelen
 -	1 stuk vastzetten aan de rail, welke dient als referentiepunt*
-  -	Bakjesverschuiving: 1 verschuifbaar onderdeel
-  -	Muurverschuiving: 3 verschuifbare onderdelen
-  -	
+    *	Bakjesverschuiving: 1 verschuifbaar onderdeel
+    *	Muurverschuiving: 3 verschuifbare onderdelen
+    
 Hierbij wordt gekozen voor de tweede optie: een vast referentiestuk integreren. Hiervoor geldt volgende redenering: het verhoogt intuïtiviteit en vermindert complexiteit, zowel qua onderdelen als het instelproces.
 
 *_referentiepunt, bedoeld als zijnde vergelijkbaar met het opmeten met een schuifmaat: het ene uiteinde blijft vast, terwijl de meter kan verschoven worden._
