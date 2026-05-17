@@ -172,7 +172,7 @@ Constraints hierbij om functionaliteit van het product te behouden:
 Het conceptualisatieproces en de resultaten, gebruikmakend van de bekomen designimplicaties en dimensionering worden hier beschreven.
 
 ---
-##### 4.3.1
+##### 4.3.1 Algemene principes
 
 De constraints leggen vast dat de muren en de knoppen mee ingesteld moeten kunnen worden met de instelling van voetplaatsing en dat de muren in elk van de mogelijke instellingen vast genoeg moet staan zodat ze de voeten kunnen vasthouden en niet bewegen tijdens bijvoorbeeld het indrukken van de knoppen.
 
