@@ -29,7 +29,7 @@ Dit neemt zowel de kloof van het leren van een nieuwe taal weg, alsook de frustr
 *perfect pitch: Het vermogen om een ​​bepaalde toonhoogte te identificeren of na te bootsen zonder gebruik te maken van een referentietoon.  
 
  
-![ProofOfConcept](/img/antro2/Ant31.png)
+![ProofOfConcept](/img/antro2/Ant41.png)
   
 </p>
 
