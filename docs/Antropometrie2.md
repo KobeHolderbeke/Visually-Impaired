@@ -268,7 +268,7 @@ Uit tests zal blijken of dit al dan niet te veel vrijheid biedt aan de gebruiker
 Gezien besloten is dat de verschuifbare componenten muren worden in plaats van vaste bakjes, kunnen de bodems van de voorgaande bakjes nu samengevoegd worden tot één bodemplaat, waarover de muren zullen verschuiven.
 
 ---
-####### 4.3.2.1.1 Breedte
+###### 4.3.2.1.1 Breedte
 
 De breedte ervan wordt bepaald door de maximale genomen instelafstand van de voorgaande bakjes te nemen (Figuur 7) en hierbij twee helften - oftewel één gehele – maximale voetbreedte bij op te tellen (Tabel 2):
 
@@ -282,7 +282,7 @@ De breedte ervan wordt bepaald door de maximale genomen instelafstand van de voo
 350 + 114 = **464mm**
 
 ---
-####### 4.3.2.1.1 Lengte
+###### 4.3.2.1.1 Lengte
 
 De lengte wordt bepaald door de maximale voetlengte binnen de groep te nemen (Tabel 2).
 
@@ -330,7 +330,7 @@ De lengte van het geheel is dus 289mm (twee helften van 144,5mm)(zie tabel 2)
 
 ---
 ###### 4.3.2.2 Rail (interval schuifsysteem)
-####### 4.3.2.2.1 Vormbepaling
+###### 4.3.2.2.1 Vormbepaling
 
 Achteraan de bodemplaat komt de rail terecht, met de inkeping/gleuf naar achteren gericht. Op deze manier kunnen de muren zich rond de rail klemmen.
 
@@ -363,14 +363,14 @@ Het gehele schuif- en borgingsproces wordt in Figuur 15 afgebeeld en in Figuur 1
 *Figuur 16: Borgingsprincipes van het instelproces van de muur*
 
 ---
-####### 4.3.2.2.2 Dimensionering
-######## 4.3.2.2.2.1 Breedte van geheel
+###### 4.3.2.2.2 Dimensionering
+###### 4.3.2.2.2.1 Breedte van geheel
 
 De breedte van de rail stemt overeen met de breedte van de bodemplaat. 
 Deze bedraagt dus (voorlopig) 464mm.
 
 ---
-######## 4.3.2.2.2.2 Breedtes van intervallen en tussenintervallen
+###### 4.3.2.2.2.2 Breedtes van intervallen en tussenintervallen
 
 Omdat zowel de gekozen voet-tot-voetafstand en de “bakjes”-breedte vrij te kiezen is, is het zinloos om hiervoor meer- en minder voorkomende instelpunten te bepalen om een variantie in hoeveelheid intervalpunten in zekere regio’s te voorzien.
 
@@ -401,7 +401,7 @@ Dit in rekening gehouden, wordt gekozen voor zowel een interval- als een tusseni
 *Figuur 18: Breedtes van intervallen en tussenintervallen*
 
 ---
-######## 4.3.2.2.2.3 Dikte
+###### 4.3.2.2.2.3 Dikte
 
 De rail moet dik genoeg zijn om in de groefgedeeltes zowel de muur goed in te klemmen (mag niet loskomen) en ook met de overblijvende dikte nog sterk genoeg is. (Zie Figuur 14)
 
@@ -413,7 +413,7 @@ Dit wordt afgebeeld in Figuur 19:
 *Figuur 19: Diktedimensies van de rail*
 
 ---
-######## 4.3.2.2.2.4 Hoogte van het geheel
+###### 4.3.2.2.2.4 Hoogte van het geheel
 
 Voor de hoogte geldt hetzelfde principe als bij de breedtes van de intervallen en tussenintervallen, namelijk dat moet gekozen worden voor een maat die groot genoeg is om nog steeds voldoende sterk te zijn en de functionaliteiten te volbrengen, maar ook niet te groot, om compactheid te maximaliseren.
 
@@ -433,7 +433,7 @@ In functie van deze constraints, gecombineerd met de hoogte van de muren (4.3.2.
 *Figuur 20: Hoogtedimensies van de rail*
 
 ---
-####### 4.3.2.2.3 Gehele dimensionering van rail
+###### 4.3.2.2.3 Gehele dimensionering van rail
 
 Al de aparte designbeslissingen binnen de dimensionering van de rail leiden tot een allesomvattende dimensionering, waarvan de technische tekening in Figuur 21 afgebeeld staat.
 
@@ -460,7 +460,7 @@ Enkele opmerkingen:
 
 ---
 ###### 4.3.2.3 Muren
-####### 4.3.2.3.1 Vormbepaling
+###### 4.3.2.3.1 Vormbepaling
 
 De muren dienen de voeten op hun plek te houden, tegen een stoot te kunnen en verschuifbaar en borgbaar te zijn binnenin het schuifsysteem.
 
@@ -473,8 +473,8 @@ De breedte moet groot genoeg zijn zodanig dat de borgingsstukken redelijk goed h
 Zowel de hoogte als de breedte moeten groot genoeg zijn om voldoende kracht te kunnen opvangen.
 
 ---
-####### 4.3.2.3.2 Dimensionering
-######## 4.3.2.3.2.1 Breedtes
+###### 4.3.2.3.2 Dimensionering
+###### 4.3.2.3.2.1 Breedtes
 
 Voor de twee borgingsbouten wordt gekozen voor diameters van 5mm en 2,8mm, respectievelijk voor de verticale bout en de horizontale bout, aangezien de verticale bout meer kracht zal moeten opvangen omdat het het enige element is dat de muur vasthoudt aan die kant. 
 
@@ -491,7 +491,7 @@ Deze dimensies worden afgebeeld in Figuur 22:
 *Figuur 19: Breedtedimensies van de verschuifbare muren*
 
 ---
-######## 4.3.2.3.2.2 Hoogtes
+###### 4.3.2.3.2.2 Hoogtes
 
 De hoogte wordt enerzijds bepaald door de knophoogte (4.3.2.5.2.2.), anderzijds in functie van het begrenzend vermogen dat het heeft voor de voeten.
 
@@ -561,7 +561,7 @@ Dit houdt in dat er boven de knopholte nog 5mm overblijft. Deze waarde wordt beh
 De borgingsstukken aan de klem volgen in hun hoogte dezelfde speling/tolerantie als bij de breedte ervan (4.3.2.3.2.1.) en hierdoor wordt ook voor hun hoogte voor 4,6mm gekozen. Op deze manier kan de muur in schuifstand soepel door de groeven bewegen, zonder dat deze klemstukken tegen de randen wrijven.
 
 ---
-######## 4.3.2.3.2.3 Lengtes
+###### 4.3.2.3.2.3 Lengtes
 
 De lengte van de muur dient lang genoeg te zijn om deze goed en stevig achteraan de rail te kunnen inklemmen, om de knoppen te kunnen behuizen en de voeten goed op hun plaats te kunnen houden.
 
@@ -594,7 +594,7 @@ _Opmerking: de handvaten zijn nog niet bemaat, omdat de dimensies hiervan in de 
 
 ---
 ###### 4.3.2.5 knoppen
-####### 4.3.2.5.1 Vormbepaling
+###### 4.3.2.5.1 Vormbepaling
 
 De knoppen zullen een eenvoudige rechthoekige vorm hebben met een verticaal grippatroon, aangezien een complexere knopvorm overbodig is voor deze toepassing (enkel praktisch).
 
@@ -607,13 +607,13 @@ Voor het mechanisme wordt gekozen voor “een algemene/constante middelgrote ind
 Hiervoor wordt gekozen omdat de Schneider Electric Harmony Series Contact Block, 600V, 1 NO drukknop die we gebruiken handig is in het opzicht van prototyping omdat je er eenvoudig kabels aan kan vast- en losmaken en deze ook zeer robuust is, wat noodzakelijk is bij voetbediening in deze gebruikscontext. Deze knop biedt de tweede opgelijste werkingsoptie in Figuur 28 niet als mogelijkheid, dus zal voor de externe knop een zeker schuifsysteem moeten geïntegreerd worden, binnenin de verschuifbare muur, welke acteert als een afstand die overbrugt moet worden tot je aan het effectief drukcontact terechtkomt.
 
 ---
-####### 4.3.2.5.2 Dimensionering
-####### 4.3.2.5.2.1 Lengte
+###### 4.3.2.5.2 Dimensionering
+###### 4.3.2.5.2.1 Lengte
 
 De lengte van de knoppen is reeds bepaald in Deel I: Analyse van Voetafmetingen – Dimensionering van Bakje, namelijk een kleine knop van 30mm lang en een grote knop van 40mm lang per voet.
 
 ---
-####### 4.3.2.5.2.2 Hoogte
+###### 4.3.2.5.2.2 Hoogte
 
 De hoogte is nog onbepaald. Het belangrijkste hierbij is dat de knop niet ongemakkelijk aanvoelt aan de voet en vermeden wordt dat deze niet gemakkelijk meegaat bij induwen. Beide treden op bij een te kleine hoogte-tot-lengte verhouding. Echter mag hier ook niet in overdreven worden in functie van compactheid. Ook is deze afhankelijk van de gebruikte drukknop: Schneider Electric Harmony Series Contact Block, 600V, 1 NO.
 
@@ -629,12 +629,12 @@ Er wordt gekozen voor een hoogte van 20mm, omdat
  	bij indrukking en een goed contact zou moeten garanderen.
 
 ---
-####### 4.3.2.5.2.3 Dikte
+###### 4.3.2.5.2.3 Dikte
 
 De knop moet genoeg uitsteken om voelbaar en makkelijk bedienbaar te zijn. Hier wordt gekozen voor een dikte van 10mm, waarvan 7,7mm effectief uit de muur zal steken bij niet-ingedrukte stand.
 
 ---
-####### 4.3.2.5.2.4 Mechanisme
+###### 4.3.2.5.2.4 Mechanisme
 
 Er wordt gekozen voor een inwendig schuifmechanisme binnenin de muren, op de manier zoals afgebeeld in Figuur 29:
 
