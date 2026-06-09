@@ -3,7 +3,7 @@
 
 Het doel van dit onderzoek is het mappen van de functies die in Develop 1 zijn gekozen als noodzakelijke functies (zie figuur). Anderzijds is het ook het doel om ervoor te zorgen dat het prototype intuïtief te plaatsen is op de grond en intuïtief instelbaar is voor de gebruiker.  
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/functie.png)
 
 ---
 ## 2 Motivatie
@@ -24,7 +24,7 @@ Evaluation gulf: kan de gebruiker begrijpen dat de muziek gepauzeerd is?
 
 Als dit iets dieper wordt uitgewerkt in de 7 stages wordt het resultaat verkregen in onderstaande figuur.
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/7stages.jpg)
 
 Om te bepalen welke input(s) welke functie uitvoeren, kan gebruik worden gemaakt van twee methoden die vervolgens met elkaar worden vergeleken. Voor de eerste methode worden benchmarks uitgevoerd met andere producten en services om zo mogelijke patronen terug te vinden.
 
@@ -36,15 +36,15 @@ De andere methode card sorting net zoals werd gedaan bij de functies. Dit kan ge
 
 Om dit te benchmarken moet gekeken worden naar welke services en producten gelijkaardige functies hebben. Deze functie en layout kunnen beschreven worden als enkele inputs die audio kunnen manipuleren (pauzeren, doorspoelen enzovoort). De basis layout van het te onderzoeken prototype is te vinden in onderstaande figuur.
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/basis.jpg)
 
 ### 4.1 Service benchmarking
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/service.jpg)
 
 ### 4.2 Product benchmarking
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/product.jpg)
 
 ### 4.3 conclusie
 
@@ -66,11 +66,11 @@ Als de gebruiker niet tevreden was met het resultaat, werd na de simulatie gevra
 
 _Opmerking: Deze test wordt uitgevoerd om in kaart te brengen wat de intuïtieve keuzes zijn voor blinde mensen. Als een functie op een specifieke knop wordt geplaatst is het interessantste van deze keuze de redenering waarom deze keuze werd gemaakt. Het doel is dus niet om gewoonweg de uitkomst te kopiëren in het eindproduct._
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/testbeeld.jpeg)
 
 ### 5.1 Resultaat test 1
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/Usertest1.jpg)
 
 De gebruiker plaatste enkele functies op intuïtie. Rewinding of terugspoelen werd links geplaats doordat de gebruiker dit gewoon is. Ook de looping was gekozen op intuïtie met als metafoor een cassetterecorder. Waarbij je een knop moet indrukken om iets op te nemen. De pauzeer knop werd voor deze persoon geplaatst met de reden “makkelijkst bereikbaar voor mij”. De functie die de muziek sneller en trager laat afspelen werd willekeurig geplaatst op één van de overige knoppen, zonder bijkomende redenering.
 
@@ -81,7 +81,7 @@ Belangrijkste ondervindingen:
 
 ### 5.2 Resultaat test 2
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/Usertest2.jpg)
 
 Bij de tweede test werd eerst en vooral terugspoelen terug met de linkse kant geassocieerd. Pauzeren kreeg twee knoppen, niet zozeer met de gedachte van “makkelijkst bereikbaar”, maar met de gedachte van “heb ik het meest nodig”. Het vertragen en versnellen werd hier geassocieerd met de rechter kant, maar hier moet kritisch gekeken worden. In de test werd per ongeluk vermeld dat de track niet wordt vertraagd bij het deel dat de muziek op dat specifiek moment is, maar dat er wordt geskipt naar een volgende track die trager wordt afgepeeld. De gebruiker kan hier dus de keuze voor de rechter kant hebben gemaakt met het gedacht voor door te spoelen. 
 De looping werd weer verbonden aan een metafoor, namelijk een voice-recording op een smartphone. De testpersoon redeneerde dat het stuk dat gelooped moet worden, een begin- en eindpunt nodig heeft. De input voor deze punten te definiëren is tweemaal dezelfde, net zoals dat bij de knop van een voice-recording (of video opname als ander voorbeeld).
@@ -107,7 +107,7 @@ Voor het vertragen van de muziek kunnen de testpersona niet meteen een link legg
 
 ### 6.1 Eind opstelling
 
-![](/img/cognitieve/.png)
+![](/img/cognitieve/eind.jpg)
 
 De uiteindelijke keuzes:
 -	Pauzeren centraal beide knoppen (enkele press, toggle)
