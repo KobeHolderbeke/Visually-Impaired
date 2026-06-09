@@ -106,6 +106,10 @@ In dit project werd AI gebruikt voor spellings/grammatica controles van teksten 
   * [Rapport 1](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQDN2bwuJPMMSLmgR1tbd45yAW7m6enV3AymeFjA8X_QwLY?e=4EHN3X)
   * [Rapport 2](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQC0vbEEvfZeQ49qQybeRaqQAQ82UMk618w59HhCXBCYtpQ?e=vUupAp)
 
+ ### Develop phase 2
+
+ ### Develop phase 3
+
 ## Licentie
 
 This repository contains both software and design materials created as part of an industrial design energineering project at Ghent University.
