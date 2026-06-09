@@ -111,14 +111,14 @@ Voor het vertragen van de muziek kunnen de testpersona niet meteen een link legg
 
 De uiteindelijke keuzes:
 -	Pauzeren centraal beide knoppen (enkele press, toggle)
-  o	Makkelijk bereikbaar
-  o	Meest gebruikt
+  -	Makkelijk bereikbaar
+  -	Meest gebruikt
 -	Terugspoelen links (enkele press)
-  o	Intuïtief door gewoonten van gebruiker 
-  o	Meeste producten/services
+  -	Intuïtief door gewoonten van gebruiker 
+  -	Meeste producten/services
 -	Vertragen (enkele press, toggle on/off)
-  o	Minder gebruikte functie, dus principe eenvoudig houden als deze minder rap een gewoonte wordt.
+  -	Minder gebruikte functie, dus principe eenvoudig houden als deze minder rap een gewoonte wordt.
 -	Looping (ingedrukt houden)
-  o	Ingedrukt houden, want in totaal maar één input, dus beter voor fout gevoeligheid.
+  -	Ingedrukt houden, want in totaal maar één input, dus beter voor fout gevoeligheid.
 
 
