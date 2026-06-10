@@ -1,7 +1,7 @@
 # Develop 2 – Cognitieve analyse
 ## 1 Onderzoeksdoel
 
-Het doel van dit onderzoek is het mappen van de functies die in Develop 1 zijn gekozen als noodzakelijke functies (zie figuur). Anderzijds is het ook het doel om ervoor te zorgen dat het prototype intuïtief te plaatsen is op de grond en intuïtief instelbaar is voor de gebruiker.  
+Het doel van dit onderzoek is het mappen van de functies die in Develop 1 zijn gekozen als noodzakelijke functies (zie figuur). 
 
 ![](/img/cognitieve/functie.png)
 
