@@ -1,18 +1,18 @@
 # Develop 3 – Pestel analyse
-## 1 Onderzoeksdoel
+# 1 Onderzoeksdoel
 
 De verkregen feedback van studenten kennismaatschappij en ICT, geformuleerd vanuit een PESTEL* analyse analyseren en hieruit implicaties op ons ontwerp afleiden.
 
 _*PESTEL analyse: een kader dat kijkt naar Politieke, Economische, Sociale, Technologische, Ecologische en Legale factoren._
 
 ___
-## 2 Motivatie
+# 2 Motivatie
 
 Deze analyse kan leiden tot nuttige nieuwe inzichten en mogelijke zaken die tot nog toe over het hoofd werden gezien binnen ons ontwerpproces, welke bij toepassing een positieve invloed zou kunnen hebben.
 
 ___
-## 3 Analyse
-### 3.1 Politiek
+# 3 Analyse
+## 3.1 Politiek
 #### 3.1.1 Feedback van studenten
 
 Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op politiek vlak:
@@ -36,7 +36,7 @@ Dit ligt momenteel niet prioritair. De prioriteit is eerst om het product concep
 _*QAP: Question Asking Protocol_
 
 ___
-### 3.2 Economisch
+## 3.2 Economisch
 #### 3.2.1 Feedback van studenten
 
 Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op economisch vlak:
@@ -70,7 +70,7 @@ Bij de komende gebruikerstests zal er in de QAP’s blijven gepeild worden naar 
 Algemeen gezien zal het voor ons in ieder geval het doel zijn om de gewenste functionaliteit, gevoel van robuustheid, contrast, textuur, ... te bereiken aan een zo laag mogelijke kostprijs.
 
 ___
-### 3.3 Sociaal
+## 3.3 Sociaal
 #### 3.3.1 Feedback van studenten
 
 Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op sociaal vlak:
@@ -106,7 +106,7 @@ E.g. de gebruiker beslist om alle functies behalve “switching” (wisselen tus
 Welke de beste optie is zal nog bepaald moeten worden. Voorlopig gaat onze voorkeur uit naar optie twee, om de gebruikers volledige vrijheid hierin te geven. Er moet opgelet worden dat het instellen hiervan intuïtief en vlot kan verlopen en geen te grote extra cognitieve lading met zich meebrengt.
 
 ___
-### 3.4 Technologisch
+## 3.4 Technologisch
 #### 3.4.1 Feedback van studenten
 
 Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op technologisch vlak:
@@ -132,7 +132,7 @@ ___
 Deze beveiliging/vergevingsgezindheid zal geëvalueerd worden bij volgende gebruikerstests, door te analyseren bij taakverloop/bediening in welke mate misinputs optreden.
 
 ___
-### 3.5 Ecologisch
+## 3.5 Ecologisch
 #### 3.5.1 Feedback van studenten
 
 Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op ecologisch vlak:
@@ -152,7 +152,7 @@ ___
 Er blijft over modulariteit, disassemblage en vervangbaarheid nagedacht verder in het ontwerpproces.
 
 ___
-### 3.6 Legaal
+## 3.6 Legaal
 #### 3.6.1 Feedback van studenten
 
 Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op legaal vlak:
@@ -176,7 +176,7 @@ Er zal bij volgende gebruikerstests verder bevraagd worden binnenin het onderwer
 Hieruit zal dan afgeleid worden dat of een accountsysteem toevoegen überhaupt wenselijk is en in het geval van wel, op welke manier dit zou moeten uitgevoerd worden.
 
 ___
-### 3.7 Algemeen
+## 3.7 Algemeen
 #### 3.7.1 Feedback van studenten
 
 __Wat volgt is een geparafraseerde transcriptie van de feedbackvideo op algemeen vlak:__
@@ -196,7 +196,7 @@ ___
 Nog iets dieper ingaan op lichaamstaal bij de volgende tests. Er blijft gestreefd worden naar intuïtiviteit en gebruiksgemak.
 
 ___
-## 4 Conclusies
+# 4 Conclusies
 
 -	Mogelijke overheidssubsidies of steun van toegankelijkheidsorganisaties wordt geïntegreerd worden binnen de QAP van volgende gebruikerstests, maar een grondig onderzoek hiervan zal eerder voor later zijn.
 
@@ -236,7 +236,7 @@ __Uit deze analyse kunnen volgende design requirements gevonden worden.__
 | 10 | Geen onnodige accounts | Het ontwerp moet vermijden dat gebruikers een extra account moeten aanmaken, tenzij dit echt noodzakelijk blijkt uit gebruikerstests. |
 
 ___
-## 5 Bronnen
+# 5 Bronnen
 
 ELSI Servicedesk. (2023, 18 juli). Waar vind ik meer informatie over de betekenis van de GDPR / AVG / Uitvoeringswet AVG voor observationeel medisch-wetenschappelijk onderzoek? Health-RI. 
 https://elsi.health-ri.nl/categorieen/gegevensbescherming/waar-vind-ik-meer-informatie-over-de-betekenis-van-de-gdpr-avg
