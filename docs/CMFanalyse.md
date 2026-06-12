@@ -56,8 +56,8 @@ __Mogelijke materiaalkeuzes voor de behuizing:__
 
 Zie onderstaande data uit Granta Edupack van deze materialen in figuur 3 tot 6.
 
-| ![](/img/CMF/3.png) | ![](/img/CMF/4.png) |
-| ![](/img/CMF/5.png) | ![](/img/CMF/6.png) |
+![](/img/CMF/3.png) ![](/img/CMF/4.png) 
+![](/img/CMF/5.png) ![](/img/CMF/6.png) 
 
 __Conclusie:__
 
