@@ -68,8 +68,9 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 5. [Develop phase 2: Antropometrische analyse deel 1](./docs/Develop_phase_2:Antropometrie.md)
 6. [Develop phase 2: Antropometrische analyse deel 2](./docs/Antropometrie2.md)
 7. [Develop phase 2: Cognitieve analyse](./docs/CognitieveAnalyse.md)
-8. [Design Requirements](./docs/design_requirements.md)
-9. [Bill of materials](./docs/bom.md)
+8. [Develop phase 3: CMF Analyse](./docs/CMFanalyse.md)
+9. [Design Requirements](./docs/design_requirements.md)
+10. [Bill of materials](./docs/bom.md)
 
 
 ## Kritische reflectie
