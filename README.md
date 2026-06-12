@@ -67,11 +67,12 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 4. [Develop phase 1](./docs/Develop_1.md)
 5. [Develop phase 2: Antropometrische analyse deel 1](./docs/Develop_phase_2:Antropometrie.md)
 6. [Develop phase 2: Antropometrische analyse deel 2](./docs/Antropometrie2.md)
-7. [Develop phase 2: Cognitieve analyse](./docs/CognitieveAnalyse.md)
-8. [Develop phase 3: CMF Analyse](./docs/CMFanalyse.md)
-9. [Develop phase 3: PESTEL Analyse](./docs/PESTELanalyse.md)
-10. [Design Requirements](./docs/design_requirements.md)
-11. [Bill of materials](./docs/bom.md)
+7. [Develop phase 2: Prototypes resultaten](./docs/DEV2result.md)
+8. [Develop phase 2: Cognitieve analyse](./docs/CognitieveAnalyse.md)
+9. [Develop phase 3: CMF Analyse](./docs/CMFanalyse.md)
+10. [Develop phase 3: PESTEL Analyse](./docs/PESTELanalyse.md)
+11. [Design Requirements](./docs/design_requirements.md)
+12. [Bill of materials](./docs/bom.md)
 
 
 ## Kritische reflectie
