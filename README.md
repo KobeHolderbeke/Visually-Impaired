@@ -71,8 +71,9 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 8. [Develop phase 2: Cognitieve analyse](./docs/CognitieveAnalyse.md)
 9. [Develop phase 3: CMF Analyse](./docs/CMFanalyse.md)
 10. [Develop phase 3: PESTEL Analyse](./docs/PESTELanalyse.md)
-11. [Design Requirements](./docs/design_requirements.md)
-12. [Bill of materials](./docs/bom.md)
+11. [Develop phase 3: Resultaten](./docs/DEV3results.md)
+12. [Design Requirements](./docs/design_requirements.md)
+13. [Bill of materials](./docs/bom.md)
 
 
 ## Kritische reflectie
