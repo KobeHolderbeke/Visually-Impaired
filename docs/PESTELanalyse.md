@@ -93,7 +93,7 @@ De cognitieve lading van de interactie met het product zou hoogstwaarschijnlijk 
 
 Vrij vast met onze huidige ontwerpvisie is dat het instelbaar zou zijn binnenin de app, binnenin de ‘settings’-knop, zoals afgebeeld in Figuur1:
 
-![](/img/PESTEL/functie.png)
+![](/img/PESTEL/1.png)
 
 De vraag resteert nog op welke precieze manier de moeilijkheidsgraad zou ingesteld kunnen worden. We onderscheiden twee algemene opties:
 
