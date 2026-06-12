@@ -9,7 +9,7 @@ De motivatie voor dit onderzoek is om een gebruiksvriendelijk en toegankelijk pr
 
 _* Positie is reeds bepaald in antropometrische analyse van develop 2._
 
-![](/img/CMF/.png)
+![](/img/CMF/1.png)
 
 ## 3 CMF analyse
 ### 3.1 Kostprijs
@@ -34,7 +34,7 @@ __Mogelijke kleurkeuzes (zie figuur 2):__
 •	Een opvallende rand of markering om de voorkant of de rail van het product te benadrukken.
 •	Beperkt gebruik van kleur zodat het product niet druk of speelgoedachtig oogt.
 
-![](/img/CMF/.png)
+![](/img/CMF/2.jpg)
 
 __Conclusie:__
 
@@ -56,8 +56,8 @@ __Mogelijke materiaalkeuzes voor de behuizing:__
 
 Zie onderstaande data uit Granta Edupack van deze materialen in figuur 3 tot 6.
 
-| ![](/img/CMF/.png) | ![](/img/CMF/.png) |
-| ![](/img/CMF/.png) | ![](/img/CMF/.png) |
+| ![](/img/CMF/3.png) | ![](/img/CMF/4.png) |
+| ![](/img/CMF/5.png) | ![](/img/CMF/6.png) |
 
 __Conclusie:__
 
@@ -86,11 +86,11 @@ De tactiliteit van de behuizing is belangrijk omdat blinde en slechtziende gebru
 
 Een matte, licht getextureerde finish is beter geschikt. Deze voelt duidelijker aan, geeft meer grip en maakt het product herkenbaarder zonder dat het oppervlak moeilijk te reinigen wordt. Rond de bedieningszones kan eventueel een subtiel reliëf of een iets ruwere textuur gebruikt worden, zodat de gebruiker deze zones gemakkelijker kan terugvinden. Een voorbeeld hiervan is te zien in figuur 7, maar als je op deze manier textuur aan brengt is dit enkel voor één positie toepasselijk.
 
-![](/img/CMF/.png)
+![](/img/CMF/7.jpg)
 
 Een oplossing kan zijn om textuur aan te brengen ter hoogte van de horizontale waar de tenen van de voeten moeten geplaatst worden. Want bij iedere voet is dat de plaats op het prototype dat voor iedereen hetzelfde zal zijn (zie figuur 8).
 
-![](/img/CMF/.png)
+![](/img/CMF/8.jpg)
 
 __Conclusie:__
 
@@ -109,7 +109,7 @@ __Mogelijke tactiele verschillen tussen knoppen (vb. figuur 9):__
 •	Verschillende texturen: glad, geribbeld, gestippeld of met verhoogde lijnen.
 •	Verschillende formaten: de meest gebruikte knop groter maken.
 
-![](/img/CMF/.png)
+![](/img/CMF/9.jpg)
 
 __Mogelijke materiaalkeuzes voor de behuizing (figuur 10 tot 13):__
 •	TPU (tpPUR): flexibel, slijtvast en gripvast, zeer geschikt voor knoppen die vaak met de voet worden ingedrukt.
@@ -117,8 +117,8 @@ __Mogelijke materiaalkeuzes voor de behuizing (figuur 10 tot 13):__
 •	TPE (EVA): rubberachtig, betaalbaar en goed vormbaar, maar minder slijtvast dan TPU.
 •	Siliconen: zacht, comfortabel en gemakkelijk te reinigen, maar minder geschikt bij intensief gebruik als de gebruiker schoenen zou aandoen.
 
-| ![](/img/CMF/.png) | ![](/img/CMF/.png) |
-| ![](/img/CMF/.png) | ![](/img/CMF/.png) |
+| ![](/img/CMF/10.png) | ![](/img/CMF/11.png) |
+| ![](/img/CMF/12.png) | ![](/img/CMF/13.png) |
 
 __Conclusie:__
 
