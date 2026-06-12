@@ -29,6 +29,8 @@ Na de gebruiker wist dat het product ingesteld kon worden verliep dit minder str
 
 ![](/img/rap2/test13.jpeg)
 
+---
+
 ### b. Test 2
 
 ![](/img/rap2/test21.jpeg)
@@ -39,6 +41,8 @@ Belangrijkste punten:
 -	Het opstellen van het prototype ging voor deze persoon vlot
 -	Er werd meerdere maal verbaal vermeld dat het aandrukken van de knoppen comfortabel aanvoelt
 -	De witte pinnen waren opnieuw een probleem. De gebruiker probeerde het prototype in te stellen door het te verschuiven zonder te pinnen eruit te halen wat resulteerde in het krom trekken van de muurtjes (zie hierboven). Na het verwijderen van de pinnen en dit opnieuw te proberen ging het instellen vlotter.
+
+---
 
 ## 2 Niet functionele prototype
 
