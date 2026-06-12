@@ -57,15 +57,19 @@ __Mogelijke materiaalkeuzes voor de behuizing:__
 Zie onderstaande data uit Granta Edupack van deze materialen in figuur 3 tot 6.
 
 __Data ABS__
+
 ![](/img/CMF/3.png) 
 
 __Data PC__
+
 ![](/img/CMF/4.png) 
 
 __Data Aluminium__
+
 ![](/img/CMF/5.png) 
 
 __Data Plywood__
+
 ![](/img/CMF/6.png) 
 
 __Conclusie:__
@@ -127,15 +131,19 @@ __Mogelijke materiaalkeuzes voor de behuizing (figuur 10 tot 13):__
 •	Siliconen: zacht, comfortabel en gemakkelijk te reinigen, maar minder geschikt bij intensief gebruik als de gebruiker schoenen zou aandoen.
 
 __Data tpPUR__
+
 ![](/img/CMF/10.png)
 
 __Data IIR__
+
 ![](/img/CMF/11.png)
 
 __Data EVA__
+
 ![](/img/CMF/12.png)
 
 __Data Siliconen__
+
 ![](/img/CMF/13.png)
 
 __Conclusie:__
