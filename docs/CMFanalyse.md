@@ -211,7 +211,7 @@ _Uit deze analyse kunnen nieuwe design requirement opgesteld worden (zie tabel 1
 | 17 | De gekozen materialen moeten slijtvast zijn en bestand tegen wrijving, druk, stof en vuil. | Duurzaamheid en slijtage |
 | 18 | De kostprijs moet laag genoeg blijven om het product toegankelijk te houden voor de doelgroep. | Kostprijs |
 | 19 | Onderdelen die veel slijtage krijgen, zoals de knoppen, moeten indien mogelijk vervangbaar zijn. | Duurzaamheid en slijtage |
-|
+
 
 ## 5 Toelichting AI
 
