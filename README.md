@@ -89,14 +89,11 @@ Dit concept vormt een sterke oplossing voor het eerder geschetste probleem, omda
 Naast toegankelijkheid werd ook rekening gehouden met praktische aspecten zoals betaalbaarheid, robuustheid, onderhoud, transport en instelbaarheid voor verschillende lichaamsmaten. Het inklapbare ontwerp en de geïntegreerde handvaten maken het product bruikbaar in een thuis-, school- of oefencontext. Verdere validatie blijft nodig rond langdurig gebruik, materiaalkeuze, knopweerstand en exacte positionering van de bedieningselementen. Toch biedt dit finale concept een geloofwaardige en onderbouwde richting voor een toegankelijk hulpmiddel binnen muziekeducatie.
 
 ## Kritische reflectie
-De samenwerking binnen de groep verliep vlot en eerlijk verdeeld. Waarbij taken werden verdeeld, vaak werd parallel aan elkaar gewerkt maar soms werd ook per twee aan één deel gewerkt. Er werd enkele keren samen gekomen buiten de lesuren om verder aan het project te werken. 
+De samenwerking binnen de groep verliep vlot en de taken konden goed verdeeld worden. Daardoor konden verschillende onderdelen van het project tegelijk worden uitgewerkt, zoals onderzoek, prototyping, testen en documentatie. Toch had een vroegere planning het proces kunnen versterken, vooral bij het zoeken naar geschikte testpersonen.
 
-Tijdens het project verliep de meeste communicatie online, dit zorgde niet voor problemen. 
+Een belangrijke beperking was het beperkte aantal gebruikerstesten. Blinde en slechtziende muzikanten vormen een specifieke doelgroep die moeilijk te bereiken is. De testresultaten leverden daardoor waardevolle inzichten op, maar kunnen niet als volledig representatief gezien worden.
 
-Het moeilijkste dat de groep ondervond was het vinden van respondenten. Dit grotendeels omdat onze doelgroep niet zo groot is “Blinden die muziek spelen”. Maar beide bleven moeite doen met mails sturen, mensen contacteren. Voor de testen zelf was bij iedere test iedereen van de groep aanwezig zodat alle nodige data kon opgenomen worden.
-
-Voor het maken van prototypes koos elke persoon van de groep een concept en deze werd uitgewerkt. Grotendeels elk zelfstandig met af en toe ondersteuning zodat ze altijd op tijd klaar waren.
-
+Ook het prototype vraagt nog verdere uitwerking en validatie. Vooral langdurig gebruik, knopweerstand, materiaalkeuze, stabiliteit en app-toegankelijkheid moeten verder getest worden. Daarnaast zijn de app en de renders voorlopig vooral conceptueel uitgewerkt. In een volgende fase kunnen deze onderdelen concreter gebouwd, getest en verfijnd worden. Het concept toont wel aan dat een handsfree voetcontroller een sterke richting kan zijn om zelfstandiger met audio-partituren te oefenen.
 
 ## Noot inzake het gebruik van AI
 In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen.
