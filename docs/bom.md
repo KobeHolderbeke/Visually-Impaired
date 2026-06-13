@@ -17,3 +17,7 @@
 | Multiplex | IDC | 8,00 |
 
 __Totaal = 50,17 Euro__
+
+## Stappenplan
+
+Voor het elektronica gedeelde staat alles beschreven in deze [pagina](https://github.com/MatteaClaeys/Opkomende_Tech_MC_KH)
