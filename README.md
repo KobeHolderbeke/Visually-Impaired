@@ -101,6 +101,9 @@ Voor het maken van prototypes koos elke persoon van de groep een concept en deze
 ## Noot inzake het gebruik van AI
 In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen.
 ## Bijlagen
+
+Voor een goede view van de bijlagen is openen van word bestanden in de desktop app aangeraden.
+
 ### Discovery
 * Literatuuronderzoek (N=10)
   * [Protocol](https://ugentbe.sharepoint.com/:w:/t/Group.course1292876/IQB8WhhhP_pdSazPReRh-HxqAclnc3PnnkJyJq7oPYJ3NZ4?e=7g2boN)
