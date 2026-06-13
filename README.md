@@ -31,10 +31,6 @@ Dit neemt zowel de kloof van het leren van een nieuwe taal weg, alsook de frustr
  
 ![](render.png)
 
-![](/img/antro2/Ant41.png)
-  
-</p>
-
 ---
 
 ## Introductie
