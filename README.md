@@ -76,6 +76,11 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 13. [Design Requirements](./docs/design_requirements.md)
 14. [Bill of materials](./docs/bom.md)
 
+## Conclusie
+
+
+
+
 
 ## Kritische reflectie
 De samenwerking binnen de groep verliep vlot en eerlijk verdeeld. Waarbij taken werden verdeeld, vaak werd parallel aan elkaar gewerkt maar soms werd ook per twee aan één deel gewerkt. Er werd enkele keren samen gekomen buiten de lesuren om verder aan het project te werken. 
