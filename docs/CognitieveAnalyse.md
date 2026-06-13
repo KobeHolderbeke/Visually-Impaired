@@ -121,4 +121,4 @@ De uiteindelijke keuzes:
 -	Looping (ingedrukt houden)
     -	Ingedrukt houden, want in totaal maar één input, dus beter voor fout gevoeligheid.
 
-
+De beschrijving van hoe deze code tewerk gaat is [hier](https://github.com/MatteaClaeys/Opkomende_Tech_MC_KH) te vinden
