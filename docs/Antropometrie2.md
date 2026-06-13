@@ -744,8 +744,52 @@ De afmetingen van de knoppen en hun mechanisme binnenin de muren zijn in Figuur 
 *Figuur 40: Gehele vormgeving en dimensionering van de knoppen en hun schuifmechanisme*
 
 ---
-### 6 Literatuurlijst
-#### 6.1 Internetpagina's
+### 6 Design requirements
+
+- Om voor alle mensen binnen de doelgroep een comfortabele instelling te bieden voor voetplaatsing, is de bodemplaat 485mm lang. 
+
+- Om alle mensen binnen de doelgroep hun voeten geheel op de bodemplaat te kunnen laten rusten, is de breedte ervan 320mm. 
+
+- In functie van transport en compactheid wordt de bodemplaat in twee gelijke delen verdeeld, met een horizontale snijlijn, haaks op de lengte van de voet bij gebruik, welke de mogelijkheid biedt om het prototype in te klappen. 
+
+- In functie van transport en compactheid worden aan weerszijden van het product handvatgaten voorzien, welke bij inklapping aligneren zodat ze samen als één handvat gebruikt kunnen worden om het product rond te dragen in ingeklapte stand. 
+
+- Om zowel voldoende vrijheid van instelling voor de gebruikers, als voldoende stevigheid bij borging te bieden, worden de muren verschoven en vastgezet in een dubbel roostersysteem met zowel een borgings- als tussenborgingsafstand van 5mm. 
+
+- Om voldoende stevigheid bij borging te bieden, heeft de behuizing van het dubbele rooster, de rail genoemd, een hoogte van 42 mm. 
+
+- Om voldoende stevigheid bij borging te bieden, overbrugt het eerste rooster een afstand van 12mm tot 22mm, genomen vanaf de bodemplaat, in de behuizing van het dubbele rooster, de rail genoemd. Binnenin deze afstand is er een gelijke verdeling voor het borgings- en schuifstuk: respectievelijk 12mm tot 17mm en 17mm tot 22mm. 
+
+- Om voldoende stevigheid bij borging te bieden, overbrugt het tweede rooster een afstand van 27mm tot 37mm, genomen vanaf de bodemplaat, in de behuizing van het dubbele rooster, de rail genoemd. Binnenin deze afstand is er een gelijke verdeling voor het borgings- en schuifstuk: respectievelijk 27mm tot 32mm en 32mm tot 37mm. 
+
+- Om alle voeten binnen de doelgroep te behuizen en stoten ervan voldoende op te vangen, zijn er zijwaartse muren in de bakjes die elk 160mm uitsteken in lengte en een klemstuk van 31mm lang hebben. 
+
+- Om complexiteit te verminderen en het geheel intuïtiever te maken komt één van de vier muren vast te staan aan de rail, helemaal links, vanuit het perspectief van de gebruiker. Deze muur is een “referentiemuur” en is een metafoor voor het vaste nulpunt van een schuifmaat of lat. 
+
+- Om complexiteit te verminderen en het geheel intuïtiever te maken wordt de kant van de rail langs de zijde van de referentiemuur ontnomen van het dubbele rooster voor de eerste 55mm in de langsrichting, startend vanaf de uiterste zijkant van de referentiemuur. 
+
+- Om de muren stevig te kunnen klemmen over de rail, krijgen ze elk (behalve de referentiemuur) een klemstuk die langs de voor-, boven-, en achterkant over de rail komt te staan, aan de voor- en bovenkant een hoogte van 5mm- en aan de achterkant een hoogte van 10mm heeft. De hoogte wordt telkens gemeten met de relevante zijkant van de rail als bodem genomen. De benamingen voor-, boven-, en zijkant zijn vanuit het perspectief van de gebruiker. 
+
+- De “lepjes” van de knoppen, welke de knop behuizen en schuifbaar maken over het indrukinterval, dienen een hoogte van ongeveer 10mm te hebben, zodat bij het omhoogheffen van de muren om ze te verschuiven deze knoppen niet loskomen en mooi blijven zitten. 
+
+- Om te vermijden dat de knop breekt en/of wiebelt bij indrukken, zijn deze “lepjes” langs weerskanten 15mm lang. 
+
+- De knoppen dienen een vorm van textuur te hebben zodat dit grip biedt aan de voet bij gebruik. 
+
+- Zodanig dat de knoppen niet te scherp/ongemakkelijk aanvoelen bij gebruik, krijgen deze een hoogte van 20mm. 
+
+- Het indrukinterval van de knop bedraagt ongeveer 5mm, als balans tussen het vermijden van misinputs en het behouden van compactheid, stevigheid en de mogelijkheid om de inputs snel uit te kunnen voeren. 
+
+- Voor stevigheid worden de muren bij vaststellen extra geborgd door een staaftje met een diameter van 3mm vanuit de muur door het bovenste rooster te duwen, wat verticale beweging van de muur blokkeert. 
+
+- Voor stevigheid worden de muren bij vaststellen extra geborgd door een staaftje met een diameter van 5mm vanuit de muur door het overeenstemmende gat van de bodemplaat te duwen, helemaal vooraan de muur: het verst weg van de rail. Dit blokkeert horizontale beweging van de muur en hindert zo wiebelen ervan bij gebruik. 
+
+- In functie van stevigheid heeft de rail een algehele dikte van 15mm, waarvan 10mm massief en 5mm met uitsnijdingen voor de roosters. 
+
+---
+
+### 7 Literatuurlijst
+#### 7.1 Internetpagina's
 
 DINBelg. (2005). DINBelg. https://www.dinbelg.be 
 
@@ -754,14 +798,14 @@ Zhang, L., Yick, K.-L., Li, P.-L., Yip, J., & Ng, S.-P. (2022). Foot deformation
 MathBlog. (2024, 7 maart). Z-score – Percentile table for normal distribution. https://mathblog.com/statistics/definitions/z-score/percentile-to-z-table/ 
 
 ---
-#### 6.2 Boeken
+#### 7.2 Boeken
 
 Molenbroek, J., & de Bruin, R. (2005). Enhancing
 the use of anthropometric data. Human Factors
 in Design, Safety, and Management, 289-297.
 
 ---
-#### 6.3 Generatieve AI
+#### 7.3 Generatieve AI
 
 Generatieve AI (ChatGPT, OpenAI) is gebruikt ter ondersteuning bij het toepassen van APA-richtlijnen, waaronder het correct formatteren van bronvermeldingen en het verwijzen naar figuren en citaten. De output is gecontroleerd en waar nodig aangepast door de auteur.
 
