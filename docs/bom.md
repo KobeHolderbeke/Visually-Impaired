@@ -23,7 +23,7 @@ Voor het zelfstandig bouwen van dit prototype kunnen de fasen opgesplitst worden
 
 __Behuizing:__
 
-- Alle nodige files voor het 3D printen en laser cutten zijn in [docs/Prototyping](docs/Prototyping) te vinden.
+- Alle nodige files voor het 3D printen en laser cutten zijn in [docs/Prototyping](./Prototyping/) te vinden.
 
 - Eerst wordt de multiplex plaat gelasercut volgens de DXF file. 
 
