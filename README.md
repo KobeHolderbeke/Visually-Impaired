@@ -78,9 +78,15 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 
 ## Conclusie
 
+Het finale concept is een toegankelijke voetcontroller met bijhorende app die blinde en slechtziende muzikanten ondersteunt tijdens het zelfstandig oefenen. De controller maakt het mogelijk om een audio-partituur of muziekfragment te bedienen zonder de handen van het instrument te halen. Functies zoals pauzeren, hervatten, terugspoelen, doorspoelen en herhalen blijven daardoor bereikbaar tijdens het musiceren.
 
+De keuze voor voetbediening sluit goed aan bij de muzikale context. Veel muzikanten zijn al vertrouwd met het gebruik van pedalen, waardoor deze manier van bedienen natuurlijker aanvoelt dan extra knoppen op een scherm of handmatige bediening. Het product vertrekt dus niet vanuit een volledig nieuwe interactie, maar bouwt verder op een handeling die binnen muziek al herkenbaar is.
 
+De fysieke vormgeving is afgestemd op gebruik zonder zicht. Tactiel onderscheidbare knoppen, duidelijke voetpositionering, verstelbare muren, gripvaste materialen en een stabiele bodemplaat zorgen ervoor dat oriëntatie via gevoel mogelijk wordt. Ook de app ondersteunt toegankelijk gebruik door eenvoudige functies, duidelijke structuur en auditieve ondersteuning. Deze keuzes sluiten aan bij de opgestelde [design requirements](docs/design_requirements.md).
 
+Dit concept vormt een sterke oplossing voor het eerder geschetste probleem, omdat het zelfstandigheid, gebruiksgemak en muzikale continuïteit combineert. Tijdens het oefenen ontstaat minder nood aan onderbreking of hulp van buitenaf. Tegelijk blijft het product bewust beperkt tot de belangrijkste functies, waardoor de bediening overzichtelijk blijft en de cognitieve belasting laag blijft.
+
+Naast toegankelijkheid werd ook rekening gehouden met praktische aspecten zoals betaalbaarheid, robuustheid, onderhoud, transport en instelbaarheid voor verschillende lichaamsmaten. Het inklapbare ontwerp en de geïntegreerde handvaten maken het product bruikbaar in een thuis-, school- of oefencontext. Verdere validatie blijft nodig rond langdurig gebruik, materiaalkeuze, knopweerstand en exacte positionering van de bedieningselementen. Toch biedt dit finale concept een geloofwaardige en onderbouwde richting voor een toegankelijk hulpmiddel binnen muziekeducatie.
 
 ## Kritische reflectie
 De samenwerking binnen de groep verliep vlot en eerlijk verdeeld. Waarbij taken werden verdeeld, vaak werd parallel aan elkaar gewerkt maar soms werd ook per twee aan één deel gewerkt. Er werd enkele keren samen gekomen buiten de lesuren om verder aan het project te werken. 
