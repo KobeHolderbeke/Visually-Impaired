@@ -93,7 +93,7 @@ De samenwerking binnen de groep verliep vlot en de taken konden goed verdeeld wo
 
 Een belangrijke beperking was het beperkte aantal gebruikerstesten. Blinde en slechtziende muzikanten vormen een specifieke doelgroep die moeilijk te bereiken is. De testresultaten leverden daardoor waardevolle inzichten op, maar kunnen niet als volledig representatief gezien worden.
 
-Ook het prototype vraagt nog verdere uitwerking en validatie. Vooral langdurig gebruik, knopweerstand, materiaalkeuze, stabiliteit en app-toegankelijkheid moeten verder getest worden. Daarnaast zijn de app en de renders voorlopig vooral conceptueel uitgewerkt. In een volgende fase kunnen deze onderdelen concreter gebouwd, getest en verfijnd worden. Het concept toont wel aan dat een handsfree voetcontroller een sterke richting kan zijn om zelfstandiger met audio-partituren te oefenen.
+Ook het prototype vraagt nog verdere uitwerking en validatie. Vooral langdurig gebruik, knopweerstand, materiaalkeuze, stabiliteit en app-toegankelijkheid moeten verder getest worden. Daarnaast zijn de app en de render (foto bovenaan de main-page) voorlopig vooral conceptueel uitgewerkt. In een volgende fase kunnen deze onderdelen concreter gebouwd, getest en verfijnd worden. Het concept toont wel aan dat een handsfree voetcontroller een sterke richting kan zijn om zelfstandiger met audio-partituren te oefenen.
 
 ## Noot inzake het gebruik van AI
 In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen. In hoofdstukken waarin AI voor andere doeleinden is gebruikt, wordt dit in het hoofdstuk zelf vermeld.
