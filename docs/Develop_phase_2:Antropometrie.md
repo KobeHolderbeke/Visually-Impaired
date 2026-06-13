@@ -371,6 +371,18 @@ Het bepalen van de mate waarin de grote uitwijking van kleine voeten een problee
 
 Een tweede studie: Deel II: Analyse van Heup- en Beenafmetingen – Plaatsing van Bakjes, zal moeten uitgevoerd worden om te bepalen hoe ver de twee bakjes uit elkaar moeten staan, of instelbaarheid nodig is en in welke mate, etc., vooraleer de hiervoor vernoemde tests uitgevoerd kunnen worden.
 
+#### 5.3 Design Requirements
+
+- Om alle voeten binnen de doelgroep comfortabel te kunnen behuizen, krijgt de inhoud van de bakjes een breedte van 130mm. 
+
+- Om ervoor te zorgen dat het dikste breedtepunt vooraan de voet de knoppen tikken bij bediening voor alle mensen binnen de doelgroep, overbrugt de knop langs de binnenkant van de voet een afstand vertrekkende van 50,1mm, - tot 80mm, gemeten vanaf het uiterste te bereiken vlak van de inhoud van het bakje. 
+
+- Om ervoor te zorgen dat het dikste breedtepunt vooraan de voet de knoppen tikken bij bediening voor alle mensen binnen de doelgroep, overbrugt de knop langs de buitenkant van de voet een afstand vertrekkende van 66mm, tot 106mm, gemeten vanaf het uiterste te bereiken vlak van de inhoud van het bakje. 
+
+- Om alle voeten binnen de doelgroep te behuizen en stoten ervan voldoende op te vangen, zijn er zijwaartse muren in de bakjes die elk 140mm uitsteken in lengte. 
+
+- Om alle voeten binnen de doelgroep te behuizen en stoten ervan voldoende op te vangen, zijn er zijwaartse muren in de bakjes die elk 10mm breed zijn. 
+
 ---
 ### 6 Literatuurlijst
 #### 6.1 Internetpagina's
