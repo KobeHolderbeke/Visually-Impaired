@@ -1,14 +1,14 @@
 ## Bill of materials
 | <u>**Wat**</u> | Link | Prijs (euro) |
-|   |   |   |
+|---|---|---|
 | Anti-slip meubelpads | [Link 1](https://www.action.com/nl-be/p/3215822/anti-slip-meubelpads/) | 0,99 |
-|   |   |   |
+|---|---|---|
 | <u>**Electronics**</u> |  |  |
 | Schneider Electric Harmony XAL Series Contact Block | [Link 2](https://nl.rs-online.com/web/p/push-button-contact-blocks-light-blocks/3310574) | 7,47 |
 | ESP32 | [Link 3](https://nl.aliexpress.com/item/1005006458998450.html?spm=a2g0o.order_list.order_list_main.5.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 4,79 |
 | 3 Watt speaker | [Link 4](https://nl.aliexpress.com/item/1005008025171023.html?spm=a2g0o.order_list.order_list_main.24.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 2,75 |
 | DFPlayer mini | [Link 6](https://nl.aliexpress.com/item/1005008209885534.html?spm=a2g0o.order_list.order_list_main.30.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 2,13 |
-|   |   |   |
+|---|---|---|
 | <u>**Materials**</u> |  |  |
 | PLA (3D print filament) | [Link 7](https://eu.elegoo.com/products/pla-filament-1-75mm-colored-1kg?variant=gid://shopify/ProductVariant/51888865837332&gad_source=1&gad_campaignid=23872839547&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jkYPE1CJOypTnMBtF_swxUjDNLibHnnH5JfK7WFK0WP_5VpCQrZCZoaAi7jEALw_wcB) |  |
 | Multiplex | IDC | 8,00 |
