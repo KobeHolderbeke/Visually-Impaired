@@ -66,6 +66,8 @@ Dit zou betekenen:
 
 Rekening houdend met het feit dat deze schatting zuiver gebaseerd is op intuïtie, wordt gekozen voor een afstand van 22mm. Dit zou het product comfortabel vast neembaar moeten maken (testen ter validatie), zonder de structurele integriteit in gevaar te brengen. 
 
+---
+
 #### 4.2 Analyse van dimensionering
 
 Hieruit volgen als samenvatting volgende dimensies:
@@ -79,6 +81,8 @@ Hieruit volgen als samenvatting volgende dimensies:
 Deze dimensies worden ook verzameld en geïllustreerd in Figuur 5:
 
 ![](/img/antro3/5.png)
+
+---
 
 ### 5 Conclusie
 
