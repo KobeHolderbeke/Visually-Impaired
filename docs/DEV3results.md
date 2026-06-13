@@ -39,6 +39,8 @@ Belangrijkste resultaatspunten:
 -	De lay-out werd beschreven als intuïtief.
 -	De loop functie heeft een soort feedback nodig welke aantoont dat de looping start en/of bezig is.
 
+---
+
 ### 1.2 Gebruikstest
 
 Nu werd de gebruiker gevraagd om aan hun instrument te zitten of hun instrument bij de hand te nemen. Wegens tijdlimieten kon deze test maar door één respondent uitgevoerd worden. Er werd simpelweg gevraagd aan de gebruiker om het product te gebruiken met als doel het stukje muziek na te kunnen spelen. 
@@ -49,6 +51,8 @@ Belangrijkste punten:
 -	De gebruiker was erin geslaagd om het stuk (complexe) muziek vrij snel in zekere mate te leren (belangrijk hierbij is dat de proefpersoon een ervaren muzikant is, dit resultaat is dus niet representatief voor de “gemiddelde” muzikant).
 -	Er is nood aan een door- en terugspoel functie.
 -	Het testresultaat werd deels beïnvloed door stress.
+
+---
 
 ## 2 CMF/APP (QAP)
 
