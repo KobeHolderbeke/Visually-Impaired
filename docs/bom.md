@@ -2,12 +2,13 @@
 | <u>**Wat**</u> | Link | Prijs (euro) |
 |---|---|---|
 | Anti-slip meubelpads | [Link 1](https://www.action.com/nl-be/p/3215822/anti-slip-meubelpads/) | 0,99 |
+|---|---|---|
+| <u>**Electronics**</u> |  |  |
 | Schneider Electric Harmony XAL Series Contact Block | [Link 2](https://nl.rs-online.com/web/p/push-button-contact-blocks-light-blocks/3310574) | 7,47 |
-| Arduino Nano 33 IoT | [Link 3](https://store.arduino.cc/products/arduino-nano-33-iot) | 26,70 |
-| Grove Passive Buzzer | [Link 4](https://www.seeedstudio.com/Grove-Passive-Buzzer-p-4525.html) | 2,10 |
-| 103100124 Shield for Arduino Nano | [Link 5](https://benl.rs-online.com/web/p/development-tool-accessories/2876429) | 4,62 |
-| Grove connectors | [Link 6](https://www.kiwi-electronics.com/nl/grove-universal-4-pin-buckled-20cm-cable-5-pack-1887) | 2,17 |
+| ESP32 | [Link 3](https://nl.aliexpress.com/item/1005006458998450.html?spm=a2g0o.order_list.order_list_main.5.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 4,79 |
+| 3 Watt speaker | [Link 4](https://nl.aliexpress.com/item/1005008025171023.html?spm=a2g0o.order_list.order_list_main.24.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 2,75 |
+| DFPlayer mini | [Link 6](https://nl.aliexpress.com/item/1005008209885534.html?spm=a2g0o.order_list.order_list_main.30.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 2,13 |
+|---|---|---|
 | <u>**Materials**</u> |  |  |
-| PLA (3D print filament) |  |  |
-| Cardboard |  |  |
-| Multiplex |  |  |
+| PLA (3D print filament) | [Link 7](https://eu.elegoo.com/products/pla-filament-1-75mm-colored-1kg?variant=gid://shopify/ProductVariant/51888865837332&gad_source=1&gad_campaignid=23872839547&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jkYPE1CJOypTnMBtF_swxUjDNLibHnnH5JfK7WFK0WP_5VpCQrZCZoaAi7jEALw_wcB) |  |
+| Multiplex | IDC | 8,00 |
