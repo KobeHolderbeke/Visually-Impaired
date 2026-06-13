@@ -10,7 +10,10 @@
 | DFPlayer mini | [Link 6](https://nl.aliexpress.com/item/1005008209885534.html?spm=a2g0o.order_list.order_list_main.30.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 2,13 |
 | Breadboard | [Link 7](https://www.kiwi-electronics.com/nl/400-punt-breadboard-wit-283?country=BE&gad_source=1&gad_campaignid=19763236734&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jnmotBbvo4oJwZ_MgTGvO2z2zTF6wP1MVB3DD4XwPFDEkTv6m7hWWcaAsYFEALw_wcB) | 3,62 |
 | Wagos | [Link 8](https://www.brico.be/nl/elektra/bedrading/kabelverbinders-kabeldozen/verbindingsklemmen-elektriciteit/wago-verbindingsklem-hersluitbaar-dubbel-0-2-4-0-mm2-oranje-6-stuks/10105408) | 6,20 |
+| Boxdraad | [Link 9](https://www.amazon.com.be/-/nl/luidsprekerkabel-elektrische-koperdraad-bedrading-doe-het-zelfprojecten/dp/B0FC28MZSR/ref=asc_df_B0FC28MZSR?mcid=52b1d6c16c333b0b83c60957c34e765d&tag=begogshpadd0d-21&linkCode=df0&hvadid=740696233156&hvpos=&hvnetw=g&hvrand=9595553950675008988&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001278&hvtargid=pla-2441744731113&psc=1&language=nl_BE&gad_source=1) | 5,99 |
 |---|---|---|
 | <u>**Materials**</u> |  |  |
-| PLA (3D print filament) 633 gr | [Link 8](https://eu.elegoo.com/products/pla-filament-1-75mm-colored-1kg?variant=gid://shopify/ProductVariant/51888865837332&gad_source=1&gad_campaignid=23872839547&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jkYPE1CJOypTnMBtF_swxUjDNLibHnnH5JfK7WFK0WP_5VpCQrZCZoaAi7jEALw_wcB) | 8,23 |
+| PLA (3D print filament) 633 gr | [Link 10](https://eu.elegoo.com/products/pla-filament-1-75mm-colored-1kg?variant=gid://shopify/ProductVariant/51888865837332&gad_source=1&gad_campaignid=23872839547&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jkYPE1CJOypTnMBtF_swxUjDNLibHnnH5JfK7WFK0WP_5VpCQrZCZoaAi7jEALw_wcB) | 8,23 |
 | Multiplex | IDC | 8,00 |
+
+__Totaal = 50,17 Euro__
