@@ -1,5 +1,5 @@
 # Develop 2 – Antropometrische Studie
-## Deel III: Analyse van Voetafmetingen – Dimensionering van Bakje
+## Deel III: Analyse van Handafmetingen – Dimensionering van handvat
 ### 1 Onderzoeksdoel
 
 Het doel van dit onderzoek is om de plaatsing en afmetingen voor het handvat (Figuur 2) van een nieuwe prototype iteratie (Figuur 1) te definiëren. Zie Deel I: Analyse van Voetafmetingen – Dimensionering van Bakje en Deel II: Analyse van Heup- en Beenafmetingen – Plaatsing van Bakjes voor een beschrijving en conceptuele weergave van de verwachte functionaliteiten van dit prototype. Deze onbekenden worden bepaald doormiddel van een antropometrische analyse, gebruikmakend van bestaande betrouwbare antropometrische gegevens van de hand.
