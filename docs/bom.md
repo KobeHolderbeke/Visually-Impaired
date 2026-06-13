@@ -19,5 +19,12 @@
 __Totaal = 50,17 Euro__
 
 ## Stappenplan
+Voor het zelfstandig bouwen van dit prototype kunnen de fasen opgesplitst worden in de behuizing en elektronica.
 
+__Behuizing:__
+Alle nodige files voor het 3D printen en laser cutten zijn [hier](docs/Prototyping) te vinden.
+
+Eerst wordt de multiplex plaat gelasercut volgens de DXF file. vervolgens worden alle onderdelen geprint. Beide rail onderdelen en de linkse muur worden in elkaar geklikt en via de onderkant aan de plaat geboord. Vervolgens worden de muurtjes één voor één op de rail geschoven tot ze op de passende plaats zitten voor de voet. Waneer de muurtjes nu worden opgetilt kunnen de knoppen er worden ondergeschoven. vervolgens kunnen de muren weer naar beneden en vast gezet worden met de witte pinnen aan de achterkant. Vervolgens kunnen de schakelaars in de behuizing gelegt worden en de kabels verbonden worden met behulp van een schroevendraaier. De laatste stap voor de behuizing is de houder voor de elektronica, deze wordt met een bout links de linker muur bevestigd.
+
+__Elektronica:__
 Voor het elektronica gedeelde staat alles beschreven in deze [pagina](https://github.com/MatteaClaeys/Opkomende_Tech_MC_KH)
