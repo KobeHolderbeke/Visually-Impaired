@@ -96,7 +96,8 @@ Een belangrijke beperking was het beperkte aantal gebruikerstesten. Blinde en sl
 Ook het prototype vraagt nog verdere uitwerking en validatie. Vooral langdurig gebruik, knopweerstand, materiaalkeuze, stabiliteit en app-toegankelijkheid moeten verder getest worden. Daarnaast zijn de app en de renders voorlopig vooral conceptueel uitgewerkt. In een volgende fase kunnen deze onderdelen concreter gebouwd, getest en verfijnd worden. Het concept toont wel aan dat een handsfree voetcontroller een sterke richting kan zijn om zelfstandiger met audio-partituren te oefenen.
 
 ## Noot inzake het gebruik van AI
-In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen.
+In dit project werd AI gebruikt voor spellings/grammatica controles van teksten en het omzetten van excel tabellen naar github tabellen. In hoofdstukken waarin AI voor andere doeleinden is gebruikt, wordt dit in het hoofdstuk zelf vermeld.
+
 ## Bijlagen
 
 Voor een goede view van de bijlagen is openen van word bestanden in de desktop app aangeraden.
