@@ -78,7 +78,7 @@ Aan de hand hiervan wordt in de volgende fase, [Defintion](./docs/definition.md)
 
 ## Conclusie
 
-Het finale concept is een toegankelijke voetcontroller met bijhorende app die blinde en slechtziende muzikanten ondersteunt tijdens het zelfstandig oefenen. De controller maakt het mogelijk om een audio-partituur of muziekfragment te bedienen zonder de handen van het instrument te halen. Functies zoals pauzeren, hervatten, terugspoelen, doorspoelen en herhalen blijven daardoor bereikbaar tijdens het musiceren.
+Het finale concept is een toegankelijke voetcontroller met bijhorende theoretisch uitgewerkte app die blinde en slechtziende muzikanten ondersteunt tijdens het zelfstandig oefenen. De controller maakt het mogelijk om een audio-partituur of muziekfragment te bedienen zonder de handen van het instrument te halen. Functies zoals pauzeren, hervatten, terugspoelen, doorspoelen en herhalen blijven daardoor bereikbaar tijdens het musiceren.
 
 De keuze voor voetbediening sluit goed aan bij de muzikale context. Veel muzikanten zijn al vertrouwd met het gebruik van pedalen, waardoor deze manier van bedienen natuurlijker aanvoelt dan extra knoppen op een scherm of handmatige bediening. Het product vertrekt dus niet vanuit een volledig nieuwe interactie, maar bouwt verder op een handeling die binnen muziek al herkenbaar is.
 
