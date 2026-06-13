@@ -10,5 +10,5 @@
 | DFPlayer mini | [Link 6](https://nl.aliexpress.com/item/1005008209885534.html?spm=a2g0o.order_list.order_list_main.30.2a2c79d2Uctu03&gatewayAdapt=glo2nld) | 2,13 |
 |---|---|---|
 | <u>**Materials**</u> |  |  |
-| PLA (3D print filament) | [Link 7](https://eu.elegoo.com/products/pla-filament-1-75mm-colored-1kg?variant=gid://shopify/ProductVariant/51888865837332&gad_source=1&gad_campaignid=23872839547&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jkYPE1CJOypTnMBtF_swxUjDNLibHnnH5JfK7WFK0WP_5VpCQrZCZoaAi7jEALw_wcB) |  |
+| PLA (3D print filament) 633 gr | [Link 7](https://eu.elegoo.com/products/pla-filament-1-75mm-colored-1kg?variant=gid://shopify/ProductVariant/51888865837332&gad_source=1&gad_campaignid=23872839547&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jkYPE1CJOypTnMBtF_swxUjDNLibHnnH5JfK7WFK0WP_5VpCQrZCZoaAi7jEALw_wcB) | 8,23 |
 | Multiplex | IDC | 8,00 |
