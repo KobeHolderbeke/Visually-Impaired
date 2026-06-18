@@ -66,7 +66,7 @@ Als de gebruiker niet tevreden was met het resultaat, werd na de simulatie gevra
 
 _Opmerking: Deze test wordt uitgevoerd om in kaart te brengen wat de intuïtieve keuzes zijn voor blinde mensen. Als een functie op een specifieke knop wordt geplaatst is het interessantste van deze keuze de redenering waarom deze keuze werd gemaakt. Het doel is dus niet om gewoonweg de uitkomst te kopiëren in het eindproduct._
 
-![](/img/cognitieve/testbeeld.jpeg)
+![](/img/cognitieve/testbeeldjuist.jpeg)
 
 ### 5.1 Resultaat test 1
 
